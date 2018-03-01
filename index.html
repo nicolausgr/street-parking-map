@@ -1,0 +1,393 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Θέσεις Στάθμευσης Δήμου Θεσσαλονίκης | ParkPal</title>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+    <meta charset="utf-8" />
+    <link rel="icon" type="image/png" href="parkpal-icon.png" />
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet"> 
+    <link type="text/css" rel="stylesheet" href="style.css?version=1" />
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCjWJDPoJCEYO1LpyOv5sSEfczTZGAzHQA&libraries=places&language=el&region=EL"></script>
+    <script src="scripts.js"></script>
+    <script src="geolocation-marker.js"></script>
+  </head>
+  <body onload="fadeLoader()">
+    <!--<div class="maintenance"><span>ΠΡΟΣΩΡΙΝΑ ΕΚΤΟΣ ΛΕΙΤΟΥΡΓΙΑΣ</span></div>-->
+    <div id="loader" class="loader">
+      <div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div>
+    </div>
+    <div id="map" onclick="closeLayerboxes()"></div>
+    <div class="topbar" onclick="closeLayerboxes()">
+      <img class="toplogo" src="parkpal-logo.png" alt="ParkPal" />
+      <!--
+	  <div class="burger">
+        <a href="javascript:void(0);" class="icon" onclick="toggleRespMenu()">&#9776;</a>
+      </div>
+      <div class="topmenu" id="theTopmenu">
+        <a href="#info" onclick="toggleRespMenu()">Γενικές πληροφορίες</a>
+        <a href="#payment" onclick="toggleRespMenu()">Τρόποι πληρωμής</a>
+        <a href="#faq" onclick="toggleRespMenu()">Συχνές ερωτήσεις</a>
+        <a href="#help" onclick="toggleRespMenu()">Βοήθεια</a>
+      </div>
+      -->
+    </div>
+	<input id="searchbox" class="controls" type="text" placeholder="Αναζήτηση">
+    <span id="traffic-arrow" class="arrow-right"></span>
+    <span id="residents-arrow" class="arrow-right"></span>
+    <span id="visitors-arrow" class="arrow-right"></span>
+    <span id="kiosks-arrow" class="arrow-right"></span>
+    <div id="theSidelayers" class="sidelayers">
+      <div id="traffic" onclick="toggleLayerbox('traffic')" class="layerbox">
+        <label class="switch">
+          <input type="checkbox" id="trafficbox" onchange="checkLayerCheckbox(0)" />
+          <div class="slider"></div>
+        </label>
+        <div class="label">Κίνηση</div>
+        <img src="traffic-icon.png" alt="Κίνηση" />
+      </div>
+      <div id="residents" onclick="toggleLayerbox('residents')" class="layerbox">
+        <label class="switch">
+          <input type="checkbox" id="residentsbox" onchange="checkLayerCheckbox(1)" checked />
+          <div class="slider"></div>
+        </label>
+        <div class="label">Θέσεις κατοίκων</div>
+        <img src="resident-icon.png" alt="Θέσεις κατοίκων" />
+      </div>
+      <div id="visitors" onclick="toggleLayerbox('visitors')" class="layerbox">
+        <label class="switch">
+          <input type="checkbox" id="visitorsbox" onchange="checkLayerCheckbox(2)" checked />
+          <div class="slider"></div>
+        </label>
+        <div class="label">Θέσεις επισκεπτών</div>
+        <img src="visitor-icon.png" alt="Θέσεις επισκεπτών" />
+      </div>
+      <div id="kiosks" onclick="toggleLayerbox('kiosks')" class="layerbox">
+        <label class="switch">
+          <input type="checkbox" id="kiosksbox" onchange="checkLayerCheckbox(3)" />
+          <div class="slider"></div>
+        </label>
+        <div class="label">Σημεία πώλησης</div>
+        <img src="kiosk-icon.png" alt="Περίπτερα" />
+      </div>
+    </div>
+    <div class="arrow-right"></div>
+    <div id="info" class="overlay">
+      <div class="popup">
+        <h2>Γενικές πληροφορίες</h2>
+        <a class="close" href="#">&times;</a>
+        <div class="content">
+          <p>Το Lorem Ipsum είναι απλά ένα κείμενο χωρίς νόημα για τους επαγγελματίες της τυπογραφίας και στοιχειοθεσίας. Το Lorem Ipsum είναι το επαγγελματικό πρότυπο όσον αφορά το κείμενο χωρίς νόημα, από τον 15ο αιώνα, όταν ένας ανώνυμος τυπογράφος πήρε ένα δοκίμιο και ανακάτεψε τις λέξεις για να δημιουργήσει ένα δείγμα βιβλίου. Όχι μόνο επιβίωσε πέντε αιώνες, αλλά κυριάρχησε στην ηλεκτρονική στοιχειοθεσία, παραμένοντας με κάθε τρόπο αναλλοίωτο. Έγινε δημοφιλές τη δεκαετία του '60 με την έκδοση των δειγμάτων της Letraset όπου περιελάμβαναν αποσπάσματα του Lorem Ipsum, και πιο πρόσφατα με το λογισμικό ηλεκτρονικής σελιδοποίησης όπως το Aldus PageMaker που περιείχαν εκδοχές του Lorem Ipsum.</p>
+          <p>Υπάρχουν πολλές εκδοχές των αποσπασμάτων του Lorem Ipsum διαθέσιμες, αλλά η πλειοψηφία τους έχει δεχθεί κάποιας μορφής αλλοιώσεις, με ενσωματωμένους αστεεισμούς, ή τυχαίες λέξεις που δεν γίνονται καν πιστευτές. Εάν πρόκειται να χρησιμοποιήσετε ένα κομμάτι του Lorem Ipsum, πρέπει να είστε βέβαιοι πως δεν βρίσκεται κάτι προσβλητικό κρυμμένο μέσα στο κείμενο. Όλες οι γεννήτριες Lorem Ipsum στο διαδίκτυο τείνουν να επαναλαμβάνουν προκαθορισμένα κομμάτια του Lorem Ipsum κατά απαίτηση, καθιστώνας την παρούσα γεννήτρια την πρώτη πραγματική γεννήτρια στο διαδίκτυο. Χρησιμοποιεί ένα λεξικό με πάνω από 200 λατινικές λέξεις, συνδυασμένες με ένα εύχρηστο μοντέλο σύνταξης προτάσεων, ώστε να παράγει Lorem Ipsum που δείχνει λογικό. Από εκεί και πέρα, το Lorem Ipsum παραμένει πάντα ανοιχτό σε επαναλήψεις, ενσωμάτωση χιούμορ, μη κατανοητές λέξεις κλπ.</p>
+        </div>
+      </div>
+    </div>
+    <div id="payment" class="overlay">
+      <div class="popup">
+        <h2>Τρόποι πληρωμής</h2>
+        <a class="close" href="#">&times;</a>
+        <div class="content">
+          <p>Το Lorem Ipsum είναι απλά ένα κείμενο χωρίς νόημα για τους επαγγελματίες της τυπογραφίας και στοιχειοθεσίας. Το Lorem Ipsum είναι το επαγγελματικό πρότυπο όσον αφορά το κείμενο χωρίς νόημα, από τον 15ο αιώνα, όταν ένας ανώνυμος τυπογράφος πήρε ένα δοκίμιο και ανακάτεψε τις λέξεις για να δημιουργήσει ένα δείγμα βιβλίου. Όχι μόνο επιβίωσε πέντε αιώνες, αλλά κυριάρχησε στην ηλεκτρονική στοιχειοθεσία, παραμένοντας με κάθε τρόπο αναλλοίωτο. Έγινε δημοφιλές τη δεκαετία του '60 με την έκδοση των δειγμάτων της Letraset όπου περιελάμβαναν αποσπάσματα του Lorem Ipsum, και πιο πρόσφατα με το λογισμικό ηλεκτρονικής σελιδοποίησης όπως το Aldus PageMaker που περιείχαν εκδοχές του Lorem Ipsum.</p>
+        </div>
+      </div>
+    </div>
+    <div id="faq" class="overlay">
+      <div class="popup">
+        <h2>Συχνές ερωτήσεις</h2>
+        <a class="close" href="#">&times;</a>
+        <div class="content">
+          <div class="accordion" onclick="toggleAccordion()">Ερώτηση πρώτη;</div>
+          <div class="panel">
+            <p>Υπάρχουν πολλές εκδοχές των αποσπασμάτων του Lorem Ipsum διαθέσιμες, αλλά η πλειοψηφία τους έχει δεχθεί κάποιας μορφής αλλοιώσεις, με ενσωματωμένους αστεεισμούς, ή τυχαίες λέξεις που δεν γίνονται καν πιστευτές. Εάν πρόκειται να χρησιμοποιήσετε ένα κομμάτι του Lorem Ipsum, πρέπει να είστε βέβαιοι πως δεν βρίσκεται κάτι προσβλητικό κρυμμένο μέσα στο κείμενο. Όλες οι γεννήτριες Lorem Ipsum στο διαδίκτυο τείνουν να επαναλαμβάνουν προκαθορισμένα κομμάτια του Lorem Ipsum κατά απαίτηση, καθιστώνας την παρούσα γεννήτρια την πρώτη πραγματική γεννήτρια στο διαδίκτυο. Χρησιμοποιεί ένα λεξικό με πάνω από 200 λατινικές λέξεις, συνδυασμένες με ένα εύχρηστο μοντέλο σύνταξης προτάσεων, ώστε να παράγει Lorem Ipsum που δείχνει λογικό. Από εκεί και πέρα, το Lorem Ipsum παραμένει πάντα ανοιχτό σε επαναλήψεις, ενσωμάτωση χιούμορ, μη κατανοητές λέξεις κλπ.</p>
+          </div>
+          
+          <div class="accordion" onclick="toggleAccordion()">Section 2</div>
+          <div class="panel">
+            <p>Lorem ipsum...</p>
+          </div>
+          
+          <div class="accordion" onclick="toggleAccordion()">Section 3</div>
+          <div class="panel">
+            <p>Lorem ipsum...</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="help" class="overlay">
+      <div class="popup">
+        <h2>Βοήθεια</h2>
+        <a class="close" href="#">&times;</a>
+        <div class="content">
+          <p>Υπάρχουν πολλές εκδοχές των αποσπασμάτων του Lorem Ipsum διαθέσιμες, αλλά η πλειοψηφία τους έχει δεχθεί κάποιας μορφής αλλοιώσεις, με ενσωματωμένους αστεεισμούς, ή τυχαίες λέξεις που δεν γίνονται καν πιστευτές. Εάν πρόκειται να χρησιμοποιήσετε ένα κομμάτι του Lorem Ipsum, πρέπει να είστε βέβαιοι πως δεν βρίσκεται κάτι προσβλητικό κρυμμένο μέσα στο κείμενο. Όλες οι γεννήτριες Lorem Ipsum στο διαδίκτυο τείνουν να επαναλαμβάνουν προκαθορισμένα κομμάτια του Lorem Ipsum κατά απαίτηση, καθιστώνας την παρούσα γεννήτρια την πρώτη πραγματική γεννήτρια στο διαδίκτυο. Χρησιμοποιεί ένα λεξικό με πάνω από 200 λατινικές λέξεις, συνδυασμένες με ένα εύχρηστο μοντέλο σύνταξης προτάσεων, ώστε να παράγει Lorem Ipsum που δείχνει λογικό. Από εκεί και πέρα, το Lorem Ipsum παραμένει πάντα ανοιχτό σε επαναλήψεις, ενσωμάτωση χιούμορ, μη κατανοητές λέξεις κλπ.</p>
+        </div>
+      </div>
+    </div>
+    <div id="unavailable" class="snackbar">Μη διαθέσιμο ακόμα...</div>
+    <div id="away" class="snackbar">Βρίσκεστε εκτός Θεσσαλονίκης...</div>
+    <script>
+      var trafficpar = findGetParameter("traffic");
+	  if (trafficpar != null) {
+	    if (trafficpar == "true") document.getElementById("trafficbox").checked = true;
+	    else if (trafficpar == "false") document.getElementById("trafficbox").checked = false;
+      }
+      var residentspar = findGetParameter("residents");
+	  if (residentspar != null) {
+	    if (residentspar == "true") document.getElementById("residentsbox").checked = true;
+	    else if (residentspar == "false") document.getElementById("residentsbox").checked = false;
+      }
+      var visitorspar = findGetParameter("visitors");
+	  if (visitorspar != null) {
+	    if (visitorspar == "true") document.getElementById("visitorsbox").checked = true;
+	    else if (visitorspar == "false") document.getElementById("visitorsbox").checked = false;
+      }
+      var kioskspar = findGetParameter("kiosks");
+	  if (kioskspar != null) {
+	    if (kioskspar == "true") document.getElementById("kiosksbox").checked = true;
+	    else if (kioskspar == "false") document.getElementById("kiosksbox").checked = false;
+      }
+	  
+      var map;
+      var trafficLayer;
+      var residentsLayer;
+      var visitorsLayer;
+      var thessaloniki_center = {lat: 40.626461, lng: 22.948422};
+      var thessaloniki_minLat = 40.571406;
+      var thessaloniki_maxLat = 40.705420;
+      var thessaloniki_minLng = 22.830105;
+      var thessaloniki_maxLng = 23.015671;
+      var geoMarker;
+      var infowindow = new google.maps.InfoWindow();
+      var mapStyle = [
+                       {
+                         "featureType": "road",
+                         "elementType": "geometry",
+                         "stylers": [{ "color": "#FFFFFF" }]
+                       },
+                       {
+                         "featureType": "road.highway",
+                         "elementType": "labels.text.fill",
+                         "stylers": [{ "color": "#585858" }]
+                       },
+                       {
+                         "featureType": "road",
+                         "elementType": "labels.icon",
+                         "stylers": [{ "visibility": "off" }]
+                       }
+                     ]
+      function initMap() {
+        map = new google.maps.Map(document.getElementById('map'), {
+          center: thessaloniki_center,
+          zoom: 14,
+          minZoom: 13,
+          mapTypeId: 'roadmap',
+          styles: mapStyle,
+          mapTypeControl: false,
+          zoomControl: true,
+          zoomControlOptions: {
+            position: google.maps.ControlPosition.RIGHT_BOTTOM
+          },
+          scaleControl: false,
+          rotateControl: false,
+          streetViewControl: false,
+          fullscreenControl: true,
+          fullscreenControlOptions: {
+            position: google.maps.ControlPosition.RIGHT_BOTTOM
+          }
+        });
+		
+		var searchInput = document.getElementById('searchbox');
+        var searchBox = new google.maps.places.SearchBox(searchInput, { bounds: map.getBounds() });
+		
+        var markers = [];
+        // Listen for the event fired when the user selects a prediction and retrieve
+        // more details for that place.
+        searchBox.addListener('places_changed', function() {
+          var places = searchBox.getPlaces();
+
+          if (places.length == 0) {
+            return;
+          }
+
+          // Clear out the old markers.
+          markers.forEach(function(marker) {
+            marker.setMap(null);
+          });
+          markers = [];
+
+          // For each place, get the icon, name and location.
+          var bounds = new google.maps.LatLngBounds();
+          places.forEach(function(place) {
+            if (!place.geometry) {
+              console.log("Returned place contains no geometry");
+              return;
+            }
+            var icon = {
+              url: place.icon,
+              size: new google.maps.Size(71, 71),
+              origin: new google.maps.Point(0, 0),
+              anchor: new google.maps.Point(17, 34),
+              scaledSize: new google.maps.Size(25, 25)
+            };
+
+            // Create a marker for each place.
+            markers.push(new google.maps.Marker({
+              map: map,
+              icon: icon,
+              title: place.name,
+              position: place.geometry.location
+            }));
+
+            if (place.geometry.viewport) {
+              // Only geocodes have viewport.
+              bounds.union(place.geometry.viewport);
+            } else {
+              bounds.extend(place.geometry.location);
+            }
+          });
+          map.fitBounds(bounds);
+        });
+		
+		// Bias the SearchBox results towards current map's viewport.
+        map.addListener('bounds_changed', function() {
+          searchBox.setBounds(map.getBounds());
+        });
+        
+        zonesLayer = new google.maps.Data();
+        zonesLayer.loadGeoJson('zones.geojson');
+        zonesLayer.setStyle({
+          strokeColor: 'rgba(81,165,186,128)',
+          strokeWeight: 2,
+          fillColor: 'rgb(81,165,186)',
+          fillOpacity: 0.14,
+          clickable: false,
+          zIndex: 0
+         });
+        if (document.getElementById('residentsbox').checked) {
+          zonesLayer.setMap(map);
+        } else {
+          zonesLayer.setMap(null);
+        }
+        
+        trafficLayer = new google.maps.TrafficLayer();
+        trafficLayer.setMap(null);
+        if (document.getElementById('trafficbox').checked) {
+          trafficLayer.setMap(map);
+        } else {
+          trafficLayer.setMap(null);
+        }
+
+        residentsLayer = new google.maps.Data();
+        residentsLayer.loadGeoJson('residents.geojson?v=3');
+        residentsLayer.setStyle({
+          strokeColor: 'rgba(81,165,186,128)',
+          strokeWeight: 2,
+          fillColor: 'rgba(81,165,186,32)',
+          zIndex: 1
+         });
+        if (document.getElementById('residentsbox').checked) {
+          residentsLayer.setMap(map);
+        } else {
+          residentsLayer.setMap(null);
+        }
+        
+        residentsLayer.addListener('click', function(event) {
+          var zone = event.feature.getProperty("dim_koin");
+		  if (zone == 'C') { zone = 'Γ'; }
+          var side_address = event.feature.getProperty("location_name_el");
+          infowindow.setContent("<div style='width:150px; text-align: center;'><strong>ΖΩΝΗ "+zone+"</strong><br/><em>"+side_address+"</em></div>");
+          infowindow.setPosition(event.latLng);
+          infowindow.setOptions({pixelOffset: new google.maps.Size(0,-8)});
+          infowindow.open(map);
+        });
+
+        visitorsLayer = new google.maps.Data();
+        visitorsLayer.loadGeoJson('visitors.geojson?v=3');
+        visitorsLayer.setStyle({
+          strokeColor: 'rgba(254,169,2,64)',
+          strokeWeight: 2,
+          fillColor: 'rgba(254,169,2,32)',
+          zIndex: 2
+         });
+        if (document.getElementById('visitorsbox').checked) {
+          visitorsLayer.setMap(map);
+        } else {
+          visitorsLayer.setMap(null);
+        }
+        
+        visitorsLayer.addListener('click', function(event) {
+          var sector = event.feature.getProperty("side_code");
+          var side_address = event.feature.getProperty("location_name_el");
+          infowindow.setContent("<div style='width:150px; text-align: center;'><strong>ΤΟΜΕΑΣ: "+sector+"</strong><br/><em>"+side_address+"</em></div>");
+          infowindow.setPosition(event.latLng);
+          infowindow.setOptions({pixelOffset: new google.maps.Size(0,-8)});
+          infowindow.open(map);
+        });
+
+        kiosksLayer = new google.maps.Data();
+        kiosksLayer.loadGeoJson('kiosks.geojson?v=4');
+        kiosksLayer.setStyle(function(feature) {
+            return {icon:'marker.png'};
+        });
+        if (document.getElementById('kiosksbox').checked) {
+          kiosksLayer.setMap(map);
+        } else {
+          kiosksLayer.setMap(null);
+        }
+        
+        kiosksLayer.addListener('click', function(event) {
+          var kiosk_type = event.feature.getProperty("Store Type");
+          var kiosk_address = event.feature.getProperty("Address");
+          infowindow.setContent("<div style='width:150px; text-align: center;'><strong>"+kiosk_type+"</strong><br/><em>"+kiosk_address+"</em></div>");
+          infowindow.setPosition(event.feature.getGeometry().get());
+          infowindow.setOptions({pixelOffset: new google.maps.Size(0,-30)});
+          infowindow.open(map);
+        });
+    
+        // Try HTML5 geolocation
+        if (navigator.geolocation) {
+          geoMarker = new GeolocationMarker(map);
+
+          google.maps.event.addListenerOnce(geoMarker, 'position_changed', function() {
+            var pos = geoMarker.getPosition();
+            if (pos == null) {
+              console.log("Geolocation service failed...");
+            } else if (pos.lat() > thessaloniki_minLat && pos.lat() < thessaloniki_maxLat &&
+                       pos.lng() > thessaloniki_minLng && pos.lng() < thessaloniki_maxLng) {
+              map.setCenter(this.getPosition());
+              map.fitBounds(this.getBounds());
+            } else {
+              showSnackbar("away");
+            }
+          });
+
+          google.maps.event.addListener(geoMarker, 'geolocation_error', function(e) {
+            console.log("Geolocation service failed...");
+          });
+        } else {
+          // Browser doesn't support Geolocation
+          console.log("Browser doesn't support Geolocation...");
+        }
+      }
+    </script>
+    <script>
+      var acc = document.getElementsByClassName("accordion");
+      var i;
+      for (i = 0; i < acc.length; i++) {
+        acc[i].onclick = toggleAccordion;
+      }
+    </script>
+    <script>
+      initMap();
+    </script>
+    <script>
+      function closeLoader() {
+        document.getElementById("loader").style.display = 'none';
+      }
+      function fadeLoader() {
+        document.getElementById("loader").style.opacity = '0';
+        document.getElementById("map").style.opacity = '1';
+        //forceCloseLayerboxes();
+        setTimeout(closeLoader, 1000)
+      }
+    </script>
+  </body>
+</html>

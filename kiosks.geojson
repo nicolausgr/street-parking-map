@@ -1,0 +1,5925 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.93691,40.66525 ]
+    },
+    "properties": {
+    "Id":24412,
+    "Station":"BINJAKU SHPETIM",
+    "Address":"ΛΑΓΚΑΔΑ 190  ",
+    "Location":"ΣΤΑΥΡΟΥΠΟΛΗ",
+    "Postal Code":56429,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94013,40.63615 ]
+    },
+    "properties": {
+    "Id":25838,
+    "Station":"QOSJA JANI",
+    "Address":"ΕΡΜΟΥ 12",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54624,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.92690,40.66811 ]
+    },
+    "properties": {
+    "Id":2919,
+    "Station":"ΑΓΚΟΥΤΟΓΛΟΥ ΧΡΙΣΤΙΝΑ",
+    "Address":"ΡΗΓΑ ΦΕΡΡΑΙΟΥ 28",
+    "Location":"ΝΕΑ ΕΥΚΑΡΠΙΑ",
+    "Postal Code":56429,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94974,40.58626 ]
+    },
+    "properties": {
+    "Id":24925,
+    "Station":"ΑΜΒΡΟΣΙΑΔΟΥ ΜΑΡΙΑ",
+    "Address":"ΑΡΓΥΡΟΥΠΟΛΕΩΣ 16",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":55131,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.73905,40.73527 ]
+    },
+    "properties": {
+    "Id":1019,
+    "Station":"ΑΝΔΡΕΙΔΗΣ ΙΩΑΝ.",
+    "Address":"ΑΓΙΟΣ ΑΘΑΝΑΣΙΟΣ",
+    "Location":"ΑΓΙΟΣ ΑΘΑΝΑΣΙΟΣ",
+    "Postal Code":57003,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.89471,40.66696 ]
+    },
+    "properties": {
+    "Id":24260,
+    "Station":"ΑΡΑΜΠΑΤΖΗ ΕΙΡΗΝΗ",
+    "Address":"Α. ΠΑΠΑΝΔΡΕΟΥ 19",
+    "Location":"ΚΟΡΔΕΛΙΟ ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Postal Code":56334,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.96630,40.58868 ]
+    },
+    "properties": {
+    "Id":24854,
+    "Station":"ΑΥΘΕΝΤΟΠΟΥΛΟΥ ΕΛΕΝΗ",
+    "Address":"ΣΩΚΡΑΤΟΥΣ &  ΚΗΦΙΣΙΑΣ 60",
+    "Location":"ΚΗΦΙΣΙΑ ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Postal Code":55134,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.96642,40.58746 ]
+    },
+    "properties": {
+    "Id":22782,
+    "Station":"ΒΑΙΛΑΚΗ ΜΑΡΙΑ",
+    "Address":"ΚΑΠΠΑΔΟΚΙΑΣ 37",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":55134,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.92112,40.50537 ]
+    },
+    "properties": {
+    "Id":26909,
+    "Station":"ΒΛΑΧΟΥ ΕΥΑΓΓΕΛΙΑ ",
+    "Address":"ΑΝΘΕΩΝ 23",
+    "Location":"ΠΕΡΑΙΑ",
+    "Postal Code":57019,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.72792,40.71650 ]
+    },
+    "properties": {
+    "Id":26189,
+    "Station":"ΓΙΑΝΝΑΚΟΥΔΗ ΠΕΡΣΗ",
+    "Address":"ΑΓΙΟΣ ΑΘΑΝΑΣΙΟΣ",
+    "Location":"ΑΓΙΟΣ ΑΘΑΝΑΣΙΟΣ",
+    "Postal Code":57003,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΕΙΔΗ ΚΑΠΝΟΥ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.89632,40.65615 ]
+    },
+    "properties": {
+    "Id":24290,
+    "Station":"ΓΚΑΒΑΝΟΥΔΗΣ ΔΗΜΗΤΡΙΟΣ",
+    "Address":"ΚΩΝΣΤΑΝΤΙΝΟΥΠΟΛΕΩΣ 56",
+    "Location":"ΜΕΝΕΜΕΝΗ",
+    "Postal Code":54628,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.96333,40.57542 ]
+    },
+    "properties": {
+    "Id":20362,
+    "Station":"ΓΚΟΡΟ ΑΔΡΙΑΝ",
+    "Address":"ΖΟΡΜΠΑ & ΒΡΥΟΥΛΩΝ",
+    "Location":"ΚΑΛΑΜΑΡΙΑ",
+    "Postal Code":55132,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.97537,40.59559 ]
+    },
+    "properties": {
+    "Id":20288,
+    "Station":"ΓΚΟΡΟ ΘΑΝΑΣ",
+    "Address":"ΒΕΡΓΙΝΑΣ ΚΑΙ ΕΚΑΤΗΣ",
+    "Location":"ΠΥΛΑΙΑ",
+    "Postal Code":54250,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.92141,40.65575 ]
+    },
+    "properties": {
+    "Id":24860,
+    "Station":"ΔΕΛΗΓΕΩΡΓΟΥΔΗ ΣΤΕΦΑΝΙΑ",
+    "Address":"ΦΙΛΙΠΠΟΥΠΟΛΕΩΣ 95",
+    "Location":"ΑΜΠΕΛΟΚΗΠΟΙ ΘΕΣ/ΝΙΚΗΣ",
+    "Postal Code":56121,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94441,40.63180 ]
+    },
+    "properties": {
+    "Id":27684,
+    "Station":"ΔΗΜΟΥ ΝΕΦΕΛΗ",
+    "Address":"ΤΣΙΜΙΣΚΗ 58",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54623,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.96373,40.61322 ]
+    },
+    "properties": {
+    "Id":20261,
+    "Station":"ΕΚΟΥΤΣΙΔΗΣ ΜΑΡΙΟΣ",
+    "Address":"ΑΛΕΞ.ΠΑΠΑΝΑΣΤΑΣΙΟΥ 45",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54453,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94829,40.58329 ]
+    },
+    "properties": {
+    "Id":24389,
+    "Station":"ΖΑΜΡΙΗΣ ΜΙΧΑΛΗΣ(ΥΠΟΚ.)",
+    "Address":"ΚΕΡΑΣΟΥΝΤΟΣ 66",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":55131,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΑΝΤΟΠΩΛΕΙΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 23.13847,40.48002 ]
+    },
+    "properties": {
+    "Id":24299,
+    "Station":"ΖΕΚΑΣ ΑΝΤΩΝΙΟΣ",
+    "Address":"ΠΛΑΤΕΙΑ 9ης ΙΟΥΝΙΟΥ ",
+    "Location":"ΒΑΣΙΛΙΚΑ ΘΕΡΜΗΣ",
+    "Postal Code":57006,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.91965,40.73507 ]
+    },
+    "properties": {
+    "Id":1017,
+    "Station":"ΘΕΟΧΑΡΟΠΟΥΛΟΥ ΕΛΕΝΗ",
+    "Address":"ΛΟΡΔΟΥ ΒΥΡΩΝΟΣ (ΚΟΝΤΑΞΟΠΟΥΛΕΙΟ ΓΥΜΝΑΣΤΗΡΙΟ)",
+    "Location":"ΩΡΑΙΟΚΑΣΤΡΟ",
+    "Postal Code":57013,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.95950,40.69415 ]
+    },
+    "properties": {
+    "Id":6138,
+    "Station":"ΙΓΓΛΕΖΟΣ ΣΤΥΛΙΑΝΟΣ",
+    "Address":"ΗΦΑΙΣΤΟΥ 4",
+    "Location":"ΝΕΑ ΕΥΚΑΡΠΙΑ",
+    "Postal Code":56429,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΜΙΝΙ ΜΑΡΚΕΤ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.72768,40.71684 ]
+    },
+    "properties": {
+    "Id":2024,
+    "Station":"ΚΑΖΑΖΗΣ ΝΙΚΟΛΑΟΣ",
+    "Address":"ΚΟΛΟΚΟΤΡΩΝΗ 17",
+    "Location":"ΑΓΙΟΣ ΑΘΑΝΑΣΙΟΣ",
+    "Postal Code":57003,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.95746,40.61310 ]
+    },
+    "properties": {
+    "Id":6615,
+    "Station":"ΚΑΛΑΙΤΖΙΔΗΣ ΙΩΑΝΝΗΣ",
+    "Address":"ΔΕΛΦΩΝ 44  ",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54641,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94324,40.63254 ]
+    },
+    "properties": {
+    "Id":9300,
+    "Station":"ΚΑΡΑΚΩΣΤΑ ΕΛΕΝΗ",
+    "Address":"ΤΣΙΜΙΣΚΗ 22",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54623,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.95052,40.64703 ]
+    },
+    "properties": {
+    "Id":27669,
+    "Station":"ΚΑΡΑΤΑΓΛΗΣ ΑΝΤΩΝΙΟΣ ",
+    "Address":"ΜΙΧ ΚΑΡΑΟΛΗ 10",
+    "Location":"ΣΥΚΙΕΣ",
+    "Postal Code":56626,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94561,40.63103 ]
+    },
+    "properties": {
+    "Id":20923,
+    "Station":"ΚΑΡΠΟΥΖΗ ΣΥΡΜΑΤΟΥΛΑ",
+    "Address":"ΤΣΙΜΙΣΚΗ 81  ",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54622,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.91307,40.66691 ]
+    },
+    "properties": {
+    "Id":20669,
+    "Station":"ΚΑΣΤΡΙΝΟΠΟΥΛΟΥ ΟΕ",
+    "Address":"ΔΗΜΗΤΡΙΟΥ ΚΑΡΑΟΛΗ 130",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":56224,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΜΙΝΙ ΜΑΡΚΕΤ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94316,40.65889 ]
+    },
+    "properties": {
+    "Id":24296,
+    "Station":"ΚΙΛΙΝΚΑΡΙΔΗΣ Γ.- KILINKAROVA A. O.E",
+    "Address":"ΑΓΝΩΣΤΟΥ ΣΤΡΑΤΙΩΤΟΥ 19",
+    "Location":"ΠΟΛΙΧΝΗ",
+    "Postal Code":56533,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.60197,40.67249 ]
+    },
+    "properties": {
+    "Id":24301,
+    "Station":"ΚΟΛΤΣΙΔΑΣ ΓΕΩΡΓΙΟΣ",
+    "Address":"ΧΑΛΚΗΔΟΝΑ 83",
+    "Location":"ΧΑΛΚΗΔΟΝΑ",
+    "Postal Code":57007,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.96697,40.57704 ]
+    },
+    "properties": {
+    "Id":20530,
+    "Station":"ΚΟΥΛΑΚΙΩΤΗΣ ΧΡΗΣΤΟΣ",
+    "Address":"ΒΛΑΣΗ ΓΑΒΡΙΗΛΙΔΗ 45",
+    "Location":"ΚΑΛΑΜΑΡΙΑ",
+    "Postal Code":55131,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94328,40.63463 ]
+    },
+    "properties": {
+    "Id":24303,
+    "Station":"ΚΟΥΠΙΔΟΥ ΕΙΡΗΝΗ",
+    "Address":"ΕΡΜΟΥ 49  ",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54624,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.97346,40.61668 ]
+    },
+    "properties": {
+    "Id":24857,
+    "Station":"ΚΟΥΡΠΕΤΗΣ ΜΙΧΑΗΛ",
+    "Address":"ΑΓ.ΜΑΡΙΝΗΣ 7",
+    "Location":"ΑΝΩ ΤΟΥΜΠΑ",
+    "Postal Code":54351,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.97453,40.61809 ]
+    },
+    "properties": {
+    "Id":26640,
+    "Station":"ΚΡΥΣΤΑΝΑ ΦΩΤΕΙΝΗ",
+    "Address":"ΑΓ ΜΑΡΙΝΗΣ 32 ",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54351,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΑΝΑΨΥΚΤΗΡΙΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.93527,40.64207 ]
+    },
+    "properties": {
+    "Id":24858,
+    "Station":"ΚΩΝΣΤΑΝΤΙΝΙΔΗΣ ΙΩΑΚΕΙΜ",
+    "Address":"ΛΑΓΚΑΔΑ 12-14",
+    "Location":"ΒΑΡΔΑΡΗΣ",
+    "Postal Code":54630,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.95490,40.63275 ]
+    },
+    "properties": {
+    "Id":20744,
+    "Station":"ΚΩΣΤΙΔΟΥ ΕΛΙΣΑΒΕΤ",
+    "Address":"ΕΘΝΙΚΗΣ ΑΜΥΝΗΣ(ΕΝΑΝΤΙ ΦΙΛΟΣΟΦΙΚΗΣ ΣΧΟΛΗΣ)",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54635,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.93790,40.63557 ]
+    },
+    "properties": {
+    "Id":24288,
+    "Station":"ΛΕΚΚΑΣ ΜΙΧΑΗΛ",
+    "Address":"ΤΣΙΜΙΣΚΗ 2",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54625,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94507,40.63423 ]
+    },
+    "properties": {
+    "Id":24305,
+    "Station":"ΜΑΤΖΙΑΡΗΣ ΑΛΕΞΑΝΔΡΟΣ",
+    "Address":"ΚΑΡΟΛΟΥ ΝΤΗΛ 34-36",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54623,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94867,40.63350 ]
+    },
+    "properties": {
+    "Id":22986,
+    "Station":"ΜΗΛΙΟΠΟΥΛΟΣ ΔΗΜ. & ΣΙΑ ΟΕ",
+    "Address":"ΑΝ.ΓΕΩΡΓΙΟΥ ΚΥΠΡΙΟΥ 36",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54627,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΤΗΛΕΠΙΚΟΙΝΩΝΙΕΣ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.91184,40.49199 ]
+    },
+    "properties": {
+    "Id":6381,
+    "Station":"ΜΠΑΚΑΛΗΣ ΧΡΗΣΤΟΣ",
+    "Address":"ΛΕΩΦ. ΘΕΣ/ΝΙΚΗΣ-ΜΗΧΑΝΙΩΝΑΣ 36  ",
+    "Location":"ΠΕΡΑΙΑ",
+    "Postal Code":57019,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94519,40.63361 ]
+    },
+    "properties": {
+    "Id":24866,
+    "Station":"ΠΑΠΑΓΕΩΡΓΙΟΥ ΕΥΘΥΜΙΑ",
+    "Address":"ΕΡΜΟΥ 52",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54623,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.95755,40.62208 ]
+    },
+    "properties": {
+    "Id":24877,
+    "Station":"ΠΑΠΑΣΤΕΡΓΙΟΥ ΔΗΜΗΤΡΙΟΣ",
+    "Address":"ΠΕΡΔΙΚΑ 1 & ΚΑΥΤΑΤΖΟΓΛΟΥ 18",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54639,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94033,40.65624 ]
+    },
+    "properties": {
+    "Id":24306,
+    "Station":"ΠΑΤΣΙΟΥΡΗΣ ΠΑΣΧΑΛΗΣ",
+    "Address":"ΠΑΝΑΓΗ ΤΣΑΛΔΑΡΗ 79",
+    "Location":"ΝΕΑΠΟΛΗ",
+    "Postal Code":56727,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.92775,40.43115 ]
+    },
+    "properties": {
+    "Id":20664,
+    "Station":"ΣΑΜΑΡΑΣ ΚΩΝΣΤΑΝΤΙΝΟΣ",
+    "Address":"ΒΑΣ. ΚΩΝΣΤΑΝΤΙΝΟΥ 35",
+    "Location":"ΕΠΑΝΟΜΗ",
+    "Postal Code":57500,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΡΑΤΗΡΙΟ ΑΡΤΟΥ-ΕΙΔΩΝ ΖΑΧ/ΚΗΣ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.97586,40.60054 ]
+    },
+    "properties": {
+    "Id":23211,
+    "Station":"ΣΕΡΤΑΡΙΔΗΣ ΠΑΝΑΓΙΩΤΗΣ",
+    "Address":"ΑΝΑΞΙΜΑΝΔΡΟΥ 58-60  ",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54250,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.91422,40.72614 ]
+    },
+    "properties": {
+    "Id":22707,
+    "Station":"ΣΙΑΦΑΡΑΣ ΘΕΟΔΩΡΟΣ",
+    "Address":"ΚΟΜΝΗΝΩΝ 80 & ΥΨΗΛΑΝΤΟΥ  ",
+    "Location":"ΩΡΑΙΟΚΑΣΤΡΟ",
+    "Postal Code":57013,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.96119,40.61191 ]
+    },
+    "properties": {
+    "Id":4838,
+    "Station":"ΣΚΑΝΔΑΛΗ ΣΤΑΥΡΟΥΛΑ",
+    "Address":"ΣΟΛΩΝΟΣ 4",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54642,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.95540,40.65250 ]
+    },
+    "properties": {
+    "Id":27844,
+    "Station":"ΤΙΤΟΝΙΔΗΣ ΠΑΥΛΟΣ",
+    "Address":"ΕΠΤΑΠΥΡΓΙΟΥ 43",
+    "Location":"ΣΥΚΙΕΣ",
+    "Postal Code":56626,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.93896,40.63907 ]
+    },
+    "properties": {
+    "Id":20938,
+    "Station":"ΤΟΠΟΥΖΙΔΗΣ ΚΩΝΣΤΑΝΤΙΝΟΣ",
+    "Address":"ΑΝΤΙΓΟΝΙΔΩΝ 4",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54630,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.90884,40.66050 ]
+    },
+    "properties": {
+    "Id":24372,
+    "Station":"ΤΣΑΚΛΙΔΗΣ ΓΕΩΡΓΙΟΣ",
+    "Address":"ΑΓΑΜΕΜΝΩΝΟΣ 4",
+    "Location":"ΕΥΟΣΜΟΣ",
+    "Postal Code":56224,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΑΝΑΨΥΚΤΗΡΙΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.93763,40.63555 ]
+    },
+    "properties": {
+    "Id":26675,
+    "Station":"ΤΣΙΟΠΛΟΥ ΑΝΑΣΤΑΣΙΑ (ΥΠΟΚ.)",
+    "Address":"ΠΟΛΥΤΕΧΝΕΙΟΥ 26",
+    "Location":"ΣΤΑΥΡΟΥΠΟΛΗ",
+    "Postal Code":56431,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΜΙΝΙ ΜΑΡΚΕΤ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94790,40.62950 ]
+    },
+    "properties": {
+    "Id":26962,
+    "Station":"ΧΑΛΑΡΗΣ ΛΑΖΑΡΟΣ (ΥΠΟΚ.1)",
+    "Address":"ΤΣΙΜΙΣΚΗ 104  ",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54622,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94465,40.63786 ]
+    },
+    "properties": {
+    "Id":27808,
+    "Station":"AKON SAIFUR",
+    "Address":"ΦΙΛΙΠΠΟΥ 35",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54631,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΑΝΤΟΠΩΛΕΙΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.92905,40.42806 ]
+    },
+    "properties": {
+    "Id":26665,
+    "Station":"CAPO ENTELA",
+    "Address":"ΠΛΑΤΕΙΑ Ι.ΜΕΤΑΞΑ ",
+    "Location":"ΕΠΑΝΟΜΗ",
+    "Postal Code":57500,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.95325,40.60686 ]
+    },
+    "properties": {
+    "Id":21593,
+    "Station":"KOTRULEVA EMILIYA & SIA EE",
+    "Address":"ΒΑΣΙΛΙΣΣΗΣ ΟΛΓΑΣ 109",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54643,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94338,40.63886 ]
+    },
+    "properties": {
+    "Id":21594,
+    "Station":"LULJA FLORA",
+    "Address":"ΒΕΝΙΖΕΛΟΥ 61",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54631,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94954,40.63325 ]
+    },
+    "properties": {
+    "Id":23038,
+    "Station":"PAVLOVA ALEKSANDRINA",
+    "Address":"ΕΓΝΑΤΙΑΣ 103  ",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54635,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.76906,40.75331 ]
+    },
+    "properties": {
+    "Id":7292,
+    "Station":"TROCIO JORGO",
+    "Address":"Κ.ΔΑΜΑΣΚΟΥ 60",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":57011,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.95399,40.61999 ]
+    },
+    "properties": {
+    "Id":26919,
+    "Station":"ΑΛΕΠΙΔΗΣ ΠΑΝΤΕΛΕΗΜΩΝ",
+    "Address":"Λ.ΒΑΣΙΛΕΩΣ ΓΕΩΡΓΙΟΥ 24",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54640,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.98440,40.61222 ]
+    },
+    "properties": {
+    "Id":24267,
+    "Station":"ΑΝΤΩΝΙΑΔΗΣ ΓΕΩΡΓΙΟΣ- ΝΕΚΤΑΡΙΟΣ (ΥΠΟΚ.1)",
+    "Address":"ΓΡ. ΛΑΜΠΡΑΚΗ 207  ",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Postal Code":54352,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.97940,40.60890 ]
+    },
+    "properties": {
+    "Id":24261,
+    "Station":"ΑΝΤΩΝΙΑΔΗΣ ΓΕΩΡΓΙΟΣ-ΝΕΚΤΑΡΙΟΣ",
+    "Address":"ΑΜΦΙΠΟΛΕΩΣ 43 & ΠΥΛΑΙΑΣ",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54454,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.59866,40.73351 ]
+    },
+    "properties": {
+    "Id":24268,
+    "Station":"ΑΝΤΩΝΙΑΔΟΥ ΝΙΚΟΛΕΤΑ",
+    "Address":"ΕΘΝΙΚΗΣ ΑΝΤΙΣΤΑΣΗΣ 41",
+    "Location":"ΧΑΛΚΗΔΟΝΑ",
+    "Postal Code":57007,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΜΙΝΙ ΜΑΡΚΕΤ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.93980,40.63802 ]
+    },
+    "properties": {
+    "Id":24895,
+    "Station":"ΑΡΒΑΝΙΤΗΣ ΝΙΚΟΛΑΟΣ",
+    "Address":"ΕΓΝΑΤΙΑ 42",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54625,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.93128,40.64914 ]
+    },
+    "properties": {
+    "Id":27656,
+    "Station":"ΑΡΒΑΝΙΤΙΔΗΣ ΦΩΤΙΟΣ",
+    "Address":"ΧΑΛΚΟΚΟΝΔΥΛΗ 29",
+    "Location":"ΑΜΠΕΛΟΚΗΠΟΙ",
+    "Postal Code":56123,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΜΙΝΙ ΜΑΡΚΕΤ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.96229,40.60145 ]
+    },
+    "properties": {
+    "Id":26622,
+    "Station":"ΑΡΒΑΝΙΤΙΔΗΣ ΦΩΤΙΟΣ & ΣΙΑ Ε.Ε.",
+    "Address":"ΜΑΚΕΔΟΝΙΑΣ 108",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54248,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.95963,40.64328 ]
+    },
+    "properties": {
+    "Id":24852,
+    "Station":"ΒΑΡΥΤΙΜΙΔΗΣ ΘΕΟΦΙΛΟΣ",
+    "Address":"ΧΑΡΑΛΑΜΠΟΥ ΜΟΥΣΧΟΥ 5",
+    "Location":"ΘΕΣ/ΝΙΚΗ",
+    "Postal Code":54634,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.86012,40.46252 ]
+    },
+    "properties": {
+    "Id":24869,
+    "Station":"ΒΑΤΖΑΚΑ ΓΑΡΥΦΑΛΛΙΑ",
+    "Address":"ΑΓ. ΝΙΚΟΛΑΟΥ 80",
+    "Location":"Ν. ΜΗΧΑΝΙΩΝΑ",
+    "Postal Code":57004,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.95249,40.68896 ]
+    },
+    "properties": {
+    "Id":24962,
+    "Station":"ΓΑΓΡΙΝΑ ΜΑΡΙΑ",
+    "Address":"ΣΤΟΑ ΚΟΝΤΙΝΕΝΤ (ΕΝΤΟΣ CAREFOUR)",
+    "Location":"Ν. ΕΥΚΑΡΠΙΑ ΘΕΣ/ΝΙΚΗΣ",
+    "Postal Code":56429,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94920,40.62873 ]
+    },
+    "properties": {
+    "Id":28188,
+    "Station":"ΓΕΩΡΓΙΟΥ ΕΛΕΝΗ",
+    "Address":"ΤΣΙΜΙΣΚΗ 120",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54621,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 23.02853,40.58212 ]
+    },
+    "properties": {
+    "Id":26573,
+    "Station":"ΓΚΟΥΛΕΚΑΣ ΚΩΝΣΤΑΝΤΙΝΟΣ",
+    "Address":"ΟΛΥΜΠΟΥ & ΔΗΜΟΚΡΑΤΙΑΣ ΝΟΜΟΥ 751",
+    "Location":"ΠΑΝΟΡΑΜΑ",
+    "Postal Code":55236,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.97757,40.60665 ]
+    },
+    "properties": {
+    "Id":24855,
+    "Station":"ΓΚΟΥΡΒΑΣ ΓΡ.-ΚΑΛΥΒΑΤΣΗ Μ. ΟΕ",
+    "Address":"ΝΑΥΠΛΙΟΥ 27 & ΚΑΙΣΑΡΕΙΑΣ 82",
+    "Location":"ΚΑΤΩ ΤΟΥΜΠΑ ΘΕΣ/ΝΙΚΗΣ",
+    "Postal Code":54454,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΜΙΝΙ ΜΑΡΚΕΤ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.97472,40.60987 ]
+    },
+    "properties": {
+    "Id":24816,
+    "Station":"ΓΟΥΤΑΣ Π. - ΧΑΤΖΙΔΗΣ Π. & ΟΕ",
+    "Address":"ΚΑΙΣΑΡΕΙΑΣ 20 & ΒΙΖΥΗΣ ΓΩΝΙΑ",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54454,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΑΝΤΟΠΩΛΕΙΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.95121,40.62850 ]
+    },
+    "properties": {
+    "Id":24312,
+    "Station":"ΔΑΔΑΛΑΣ ΙΩΑΝΝΗΣ",
+    "Address":"ΕΘΝΙΚΗΣ ΑΜΥΝΗΣ 20",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54621,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.96472,40.60219 ]
+    },
+    "properties": {
+    "Id":26618,
+    "Station":"ΔΕΣΠΟΛΑΡΗΣ ΑΝΔΡΕΑΣ",
+    "Address":"25ΗΣ ΜΑΡΤΙΟΥ 92",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54249,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΜΙΝΙ ΜΑΡΚΕΤ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.95593,40.60784 ]
+    },
+    "properties": {
+    "Id":26615,
+    "Station":"ΔΕΣΠΟΛΑΡΗΣ ΘΑΝΑΣΗΣ ",
+    "Address":"ΧΑΛΚΙΔΙΚΗΣ 22",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54642,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΜΙΝΙ ΜΑΡΚΕΤ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.95771,40.60849 ]
+    },
+    "properties": {
+    "Id":26616,
+    "Station":"ΔΕΣΠΟΛΑΡΗΣ ΘΑΝΑΣΗΣ (ΥΠΟΚ.1)",
+    "Address":"ΔΕΛΦΩΝ 83",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54644,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΜΙΝΙ ΜΑΡΚΕΤ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.95240,40.59903 ]
+    },
+    "properties": {
+    "Id":26617,
+    "Station":"ΔΕΣΠΟΛΑΡΗΣ ΘΑΝΑΣΗΣ (ΥΠΟΚ.2)",
+    "Address":"25ΗΣ ΜΑΡΤΙΟΥ 13",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54645,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΜΙΝΙ ΜΑΡΚΕΤ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94442,40.64007 ]
+    },
+    "properties": {
+    "Id":21589,
+    "Station":"ΕΔΟΥΑΡΔΟΠΟΥΛΟΣ ΓΡΗΓΟΡΙΟΣ",
+    "Address":"ΔΡΑΓΟΥΜΗ Φ. 2",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54633,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.89413,40.67100 ]
+    },
+    "properties": {
+    "Id":24439,
+    "Station":"ΕΛΛΕΝΙΚ ΚΙΟΣΚ Ι.Κ.Ε(ΥΠΟΚ. 2)",
+    "Address":"ΑΝΔ. ΠΑΠΑΝΔΡΕΟΥ 71 - ΚΟΡΔΕΛΙΟ",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":56334,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94648,40.64511 ]
+    },
+    "properties": {
+    "Id":24438,
+    "Station":"ΕΛΛΕΝΙΚ ΚΙΟΣΚ Ι.Κ.Ε(ΥΠΟΚ.)",
+    "Address":"ΕΛΠΙΔΟΣ & ΑΚΡΙΤΑ - ΣΥΚΙΕΣ",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":56625,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 23.06861,40.74903 ]
+    },
+    "properties": {
+    "Id":24344,
+    "Station":"ΕΥΣΤΑΘΙΟΥ ΒΑΣΙΛΕΙΟΣ",
+    "Address":"ΣΕΡΑΦΕΙΜ ΤΣΑΚΜΑΝΗ ΚΑΙ ΛΟΥΤΡΩΝ 1",
+    "Location":"ΛΑΓΚΑΔΑΣ",
+    "Postal Code":57200,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.95361,40.63136 ]
+    },
+    "properties": {
+    "Id":22769,
+    "Station":"ΖΑΜΠΑΡΑΚΗΣ ΧΡΗΣΤΟΣ",
+    "Address":"ΕΘΝΙΚΗΣ ΑΜΥΝΗΣ ΕΜΠΡΟΣΘΕΝ ΤΟΥ ΑΣΥΛΟΥ ΤΟΥ ΠΑΙΔΙΟΥ",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54636,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.96426,40.62370 ]
+    },
+    "properties": {
+    "Id":24291,
+    "Station":"ΘΑΝΑΣΗ ΚΛΑΟΥΝΤΙΑ",
+    "Address":"ΚΕΡΚΥΡΑΣ 14 ",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54638,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.95256,40.62956 ]
+    },
+    "properties": {
+    "Id":22328,
+    "Station":"ΘΕΟΔΩΡΑΚΟΠΟΥΛΟΥ ΕΥΑΓΓΕΛΙΑ",
+    "Address":"ΔΕΣΠΕΡΑΙ 23  ",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54621,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.93157,40.63948 ]
+    },
+    "properties": {
+    "Id":1861,
+    "Station":"ΙΑΚΩΒΟΥ ΚΩΝ/ΝΟΣ",
+    "Address":"26ης ΟΚΤΩΒΡΙΟΥ 34",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54627,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 23.04870,40.54757 ]
+    },
+    "properties": {
+    "Id":27059,
+    "Station":"ΙΟΡΔΑΝΙΔΟΥ ΕΛΕΝΗ",
+    "Address":"ΤΡΙΑΔΙ ΗΡΩΩΝ ΠΟΛΥΤΕΧΝΕΙΟΥ 55",
+    "Location":"ΘΕΡΜΗ",
+    "Postal Code":57001,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.96036,40.56934 ]
+    },
+    "properties": {
+    "Id":27890,
+    "Station":"ΙΩΣΗΦΙΔΗΣ ΚΩΝΣΤΑΝΤΙΝΟΣ",
+    "Address":"ΣΜΥΡΝΗΣ 63",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Postal Code":55132,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.95455,40.61648 ]
+    },
+    "properties": {
+    "Id":6221,
+    "Station":"ΚΑΖΑΚΟΣ ΓΙΩΡΓΟΣ",
+    "Address":"ΒΑΣ. ΟΛΓΑΣ 11  ",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54640,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.95804,40.61491 ]
+    },
+    "properties": {
+    "Id":8822,
+    "Station":"ΚΑΛΑΙΤΖΙΔΗΣ ΙΩΑΝΝΗΣ(ΥΠΟΚ.)",
+    "Address":"ΔΕΛΦΩΝ 23",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54641,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 23.10034,40.60830 ]
+    },
+    "properties": {
+    "Id":24853,
+    "Station":"ΚΑΛΙΑΚΗΣ ΔΗΜΗΤΡΙΟΣ",
+    "Address":"ΜΑΡΤΥΡΩΝ 2ας ΣΕΠΤΕΜΒΡΙΟΥ",
+    "Location":"ΧΟΡΤΙΑΤΗΣ",
+    "Postal Code":57010,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.95830,40.60892 ]
+    },
+    "properties": {
+    "Id":27793,
+    "Station":"ΚΑΝΟΣ ΓΕΩΡΓΙΟΣ",
+    "Address":"ΜΗΤΡΟΠΟΥΛΟΥ 6",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54644,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"INTERNET CAFE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94560,40.63102 ]
+    },
+    "properties": {
+    "Id":26968,
+    "Station":"ΚΑΡΑΠΙΛΙΑΦΗΣ ΑΘΑΝΑΣΙΟΣ",
+    "Address":"ΤΣΙΜΙΣΚΗ 74 ",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54622,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94728,40.63100 ]
+    },
+    "properties": {
+    "Id":24309,
+    "Station":"ΚΑΡΑΦΟΥΛΙΔΗΣ ΦΙΛΙΠΠΟΣ",
+    "Address":"ΠΑΥΛΟΥ ΜΕΛΑ 27",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54622,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.95260,40.63932 ]
+    },
+    "properties": {
+    "Id":24273,
+    "Station":"ΚΑΣΑΜΠΑΛΗ ΑΙΚΑΤΕΡΙΝΗ",
+    "Address":"ΘΕΟΤΟΚΟΠΟΥΛΟΥ 6",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54634,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.95009,40.68358 ]
+    },
+    "properties": {
+    "Id":26662,
+    "Station":"ΚΑΤΑΚΟΥΖΙΝΟΥ ΕΥΣΤΡΑΤΙΑ (ΚΕΝΤΡΙΚΟ)",
+    "Address":"25 ΜΑΡΤΙΟΥ 2",
+    "Location":"ΣΤΑΥΡΟΥΠΟΛΗ",
+    "Postal Code":56429,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.95572,40.65897 ]
+    },
+    "properties": {
+    "Id":24256,
+    "Station":"ΚΑΤΣΙΑΚΗΣ ΧΡΗΣΤΟΣ",
+    "Address":"ΚΩΛΕΤΤΗ 29  ",
+    "Location":"ΑΜΠΕΛΟΚΗΠΟΙ ΘΕΣ/ΝΙΚΗΣ",
+    "Postal Code":54627,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.92105,40.50685 ]
+    },
+    "properties": {
+    "Id":27685,
+    "Station":"ΚΕΧΑΓΙΑ ΑΡΓΥΡΩ",
+    "Address":"ΘΕΡΜΑΙΚΟΥ 89",
+    "Location":"ΠΕΡΑΙΑ",
+    "Postal Code":57019,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"INTERNET CAFE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.95397,40.63279 ]
+    },
+    "properties": {
+    "Id":27834,
+    "Station":"ΚΟΝΤΗΣ ΓΕΩΡΓΙΟΣ",
+    "Address":"ΜΕΛΕΝΙΚΟΥ 13",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54635,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94380,40.63754 ]
+    },
+    "properties": {
+    "Id":27828,
+    "Station":"ΚΟΥΓΙΟΥΜΤΖΙΔΗΣ ΑΒΡΑΑΜ",
+    "Address":"ΧΑΛΚΕΩΝ 23",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54631,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΚΑΦΕΝΕΙΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.93612,40.64051 ]
+    },
+    "properties": {
+    "Id":24265,
+    "Station":"ΚΟΥΖΑΝΗ ΣΟΦΙΑ",
+    "Address":"ΠΛ. ΔΗΜΟΚΡΑΤΙΑΣ 6  ",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Postal Code":54629,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.95969,40.60453 ]
+    },
+    "properties": {
+    "Id":24856,
+    "Station":"ΚΟΥΖΟΥΝΗΣ ΓΕΩΡΓΙΟΣ",
+    "Address":"ΓΕΩΡΓΙΟΥ ΔΡΟΣΙΝΗ 18",
+    "Location":"ΑΝΑΛΗΨΗ ΘΕΣ/ΝΙΚΗΣ",
+    "Postal Code":54248,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94322,40.66198 ]
+    },
+    "properties": {
+    "Id":24442,
+    "Station":"ΚΟΥΤΑΣ ΒΑΣΙΛΕΙΟΣ",
+    "Address":"ΑΓ. ΠΑΝΤΕΛΕΗΜΩΝΟΣ 32",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":56533,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΑΝΤΟΠΩΛΕΙΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.89438,40.66888 ]
+    },
+    "properties": {
+    "Id":22929,
+    "Station":"ΚΟΥΤΜΕΡΙΔΗΣ ΚΟΣΜΑΣ",
+    "Address":"ΑΝΔΡΕΑ ΠΑΠΑΝΔΡΕΟΥ 35-37",
+    "Location":"ΕΛΕΥΘΕΡΙΟ",
+    "Postal Code":56334,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"INTERNET CAFE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.96422,40.60567 ]
+    },
+    "properties": {
+    "Id":26918,
+    "Station":"ΚΥΝΗΓΟΠΟΥΛΟΣ ΠΑΝΤΕΛΗΣ",
+    "Address":"ΓΙΑΝΝΗ ΧΑΛΚΙΔΗ 41 ΚΑΙ ΘΡΑΣΥΒΟΥΛΟΥ 2",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":56121,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.90650,40.50445 ]
+    },
+    "properties": {
+    "Id":27094,
+    "Station":"ΛΕΒΕΝΤΟΠΟΥΛΟΣ ΑΠΟΣΤΟΛΟΣ",
+    "Address":"ΚΑΝΑΡΗ ΜΕ ΚΟΥΝΤΟΥΡΙΩΤΟΥ",
+    "Location":"Ν ΕΠΙΒΑΤΕΣ",
+    "Postal Code":57019,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94143,40.63552 ]
+    },
+    "properties": {
+    "Id":6272,
+    "Station":"ΜΑΘΙΟΥΔΑΚΗ ΣΟΦΙΑ",
+    "Address":"ΕΡΜΟΥ 20",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54624,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.91996,40.67291 ]
+    },
+    "properties": {
+    "Id":27814,
+    "Station":"ΜΑΜΑΛΗΣ ΘΕΟΔΩΡΟΣ",
+    "Address":"ΑΓΝΩΣΤΟΥ ΣΤΡΑΤΙΩΤΗ 2  ",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54631,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.95014,40.63741 ]
+    },
+    "properties": {
+    "Id":21579,
+    "Station":"ΜΑΝΤΙΝΙΩΤΗΣ ΧΡΗΣΤΟΣ",
+    "Address":"ΑΓ. ΔΗΜΗΤΡΙΟΥ 109",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54634,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.95417,40.62040 ]
+    },
+    "properties": {
+    "Id":21590,
+    "Station":"ΜΑΣΙΟΣ ΑΠΟΣΤΟΛΟΣ",
+    "Address":"Β.ΓΕΩΡΓΙΟΥ 15-17",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54640,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.95361,40.60068 ]
+    },
+    "properties": {
+    "Id":21591,
+    "Station":"ΜΑΣΙΟΣ ΑΠΟΣΤΟΛΟΣ (ΥΠΟΚ)",
+    "Address":"ΒΑΣ.ΟΛΓΑΣ 148",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54645,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94993,40.63270 ]
+    },
+    "properties": {
+    "Id":24310,
+    "Station":"ΜΑΥΡΙΔΗΣ ΓΕΩΡΓΙΟΣ",
+    "Address":"ΕΓΝΑΤΙΑ 132",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54636,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.91845,40.65304 ]
+    },
+    "properties": {
+    "Id":24257,
+    "Station":"ΜΑΥΡΙΔΟΥ ΣΟΦΙΑ-ΠΑΡΑΣΚΕΥΗ",
+    "Address":"ΑΡΚΑΔΙΟΥ 4",
+    "Location":"ΑΜΠΕΛΟΚΗΠΟΙ ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Postal Code":56121,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.93889,40.63407 ]
+    },
+    "properties": {
+    "Id":27803,
+    "Station":"ΜΕΛΙΣΣΗ ΒΗΘΑΝΙΑ",
+    "Address":"ΒΕΝΙΖΕΛΟΥ 10   ",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54624,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.92709,40.64745 ]
+    },
+    "properties": {
+    "Id":24883,
+    "Station":"ΜΙΡΤΣΗΣ ΓΕΩΡΓΙΟΣ",
+    "Address":"ΑΓ. ΠΑΝΤΩΝ 42  ",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54629,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94712,40.63867 ]
+    },
+    "properties": {
+    "Id":27636,
+    "Station":"ΜΙΣΙΟΥ ΜΑΡΙΑ",
+    "Address":"ΑΓΙΟΥ ΔΗΜΗΤΡΙΟΥ 92",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54632,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.93663,40.63698 ]
+    },
+    "properties": {
+    "Id":7086,
+    "Station":"ΜΙΧΑΗΛΙΔΗΣ ΜΟΣΧΟΣ",
+    "Address":"Λ. ΣΟΦΟΥ 16",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54625,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.95568,40.62791 ]
+    },
+    "properties": {
+    "Id":21583,
+    "Station":"ΜΠΑΖΤΑΡΗΣ ΙΩΑΝΝΗΣ",
+    "Address":"ΕΓΝΑΤΙΑ 154 ",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54621,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.96003,40.60708 ]
+    },
+    "properties": {
+    "Id":27838,
+    "Station":"ΜΠΑΛΟΥΚΑΣ Β. - ΑΞΑΡΗΣ Β. Ε.Ε",
+    "Address":"ΜΑΡΚΟΥ ΜΠΟΤΣΑΡΗ 47",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54644,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΕΙΔΗ ΚΑΠΝΟΥ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94788,40.63820 ]
+    },
+    "properties": {
+    "Id":24861,
+    "Station":"ΜΠΑΛΟΥΚΑΣ ΒΑΣΙΛΕΙΟΣ (ΥΠΟΚ)",
+    "Address":"ΑΓΙΟΥ ΔΗΜΗΤΡΙΟΥ 100",
+    "Location":"ΚΕΝΤΡΟ ΘΕΣ/ΝΙΚΗΣ",
+    "Postal Code":54633,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.60143,40.73267 ]
+    },
+    "properties": {
+    "Id":26649,
+    "Station":"ΜΠΙΖΙΚΗ ΠΑΝΑΓΙΩΤΗ",
+    "Address":"ΕΘΝΙΚΗΣ ΑΝΤΙΣΤΑΣΗΣ 26",
+    "Location":"ΧΑΛΚΗΔΟΝΑ",
+    "Postal Code":57007,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.90591,40.67527 ]
+    },
+    "properties": {
+    "Id":21580,
+    "Station":"ΜΥΛΩΝΑ ΜΑΡΙΑ",
+    "Address":"ΜΑΙΑΝΔΡΟΥ 91",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":56224,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.92356,40.50774 ]
+    },
+    "properties": {
+    "Id":2709,
+    "Station":"ΝΑΟΥΜΙΔΗΣ ΣΩΚΡΑΤΗΣ",
+    "Address":"ΘΕΡΜΑΪΚΟΥ 52  ",
+    "Location":"ΠΕΡΑΙΑ",
+    "Postal Code":57019,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.95240,40.63608 ]
+    },
+    "properties": {
+    "Id":27895,
+    "Station":"ΝΤΑΛΤΑΣ ΛΕΥΤΕΡΗΣ",
+    "Address":"ΑΓΙΟΥ ΔΗΜΗΤΡΙΟΥ 148",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54635,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.99154,40.65637 ]
+    },
+    "properties": {
+    "Id":26613,
+    "Station":"ΞΑΦΟΠΟΥΛΟΣ ΧΑΡΑΛΑΜΠΟΣ",
+    "Address":"ΓΕΩΡΓ. ΠΑΠΑΝΙΚΟΛΑΟΥ ΠΕΥΚΑ 89",
+    "Location":"ΑΣΒΕΣΤΟΧΩΡΙ",
+    "Postal Code":57010,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΕΜΠ. Η/Υ&ΠΕΡΙΦ ΕΞΟΠΛ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.93207,40.64182 ]
+    },
+    "properties": {
+    "Id":24295,
+    "Station":"ΟΡΦΑΝΙΔΟΥ Ι.- ΟΡΦΑΝΙΔΟΥ Ε Ο.Ε",
+    "Address":"ΜΟΝΑΣΤΗΡΙΟΥ 25-27",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54627,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.95659,40.71189 ]
+    },
+    "properties": {
+    "Id":27078,
+    "Station":"ΠΑΝΕΝΕΡΓΕΙΑΚΗ ΑΕ (ΥΠΟΚ.)",
+    "Address":"8ο ΧΛΜ ΘΕΣΣΑΛΟΝΙΚΗΣ - ΛΑΓΚΑΔΑ",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54500,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΡΑΤ.ΥΓΡ.ΚΑΥΣΙΜΩΝ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.97432,40.59773 ]
+    },
+    "properties": {
+    "Id":24882,
+    "Station":"ΠΑΝΟΥ Α. & ΣΙΑ ΟΕ",
+    "Address":"ΑΝΑΞΙΜΑΝΔΡΟΥ 90",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54250,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.97309,40.59983 ]
+    },
+    "properties": {
+    "Id":20483,
+    "Station":"ΠΑΝΟΥ ΑΛΕΞΑΝΔΡΟΣ",
+    "Address":"ΜΥΣΤΑΚΙΔΟΥ 52",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54250,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94347,40.63445 ]
+    },
+    "properties": {
+    "Id":24863,
+    "Station":"ΠΑΠΑΓΕΩΡΓΙΟΥ ΑΘΑΝΑΣΙΟΣ",
+    "Address":"ΕΡΜΟΥ 32",
+    "Location":"ΚΕΝΤΡΟ ΘΕΣ/ΝΙΚΗΣ",
+    "Postal Code":54623,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.95418,40.61253 ]
+    },
+    "properties": {
+    "Id":21584,
+    "Station":"ΠΑΠΑΔΟΠΟΥΛΟΣ ΘΕΜΙΣΤΟΚΛΗΣ",
+    "Address":"ΒΑΣ. ΟΛΓΑΣ 57",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54641,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94478,40.63535 ]
+    },
+    "properties": {
+    "Id":24277,
+    "Station":"ΠΑΡΑΣΚΕΥΑΣ ΣΑΒΒΑΣ",
+    "Address":"ΕΓΝΑΤΙΑΣ 84",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54623,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.93970,40.63838 ]
+    },
+    "properties": {
+    "Id":24278,
+    "Station":"ΠΑΡΑΣΚΕΥΑΣ ΣΑΒΒΑΣ (ΥΠΟΚ.)",
+    "Address":"ΕΓΝΑΤΙΑΣ 35",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54627,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.97181,40.57104 ]
+    },
+    "properties": {
+    "Id":26948,
+    "Station":"ΠΑΥΛΙΔΗΣ ΠΑΡΑΣΚΕΥΑΣ ",
+    "Address":"ΝΙΚ ΣΤΡΑΤΟΥ ΚΑΙ ΟΔΥΣΣΕΩΣ",
+    "Location":"ΚΑΛΑΜΑΡΙΑ",
+    "Postal Code":55134,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94341,40.63166 ]
+    },
+    "properties": {
+    "Id":24252,
+    "Station":"ΠΟΖΙΔΟΥ ΣΟΦΙΑ",
+    "Address":"ΜΗΤΡΟΠΟΛΕΩΣ 59",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Postal Code":54623,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.93945,40.63457 ]
+    },
+    "properties": {
+    "Id":5201,
+    "Station":"ΠΟΤΑΜΟΠΟΥΛΟΣ ΓΕΩΡΓΙΟΣ",
+    "Address":"ΕΛ. ΒΕΝΙΖΕΛΟΥ 16",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54624,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94685,40.63537 ]
+    },
+    "properties": {
+    "Id":24307,
+    "Station":"ΣΑΜΟΛΑΔΟΠΟΥΛΟΣ ΧΡΙΣΤΟΣ",
+    "Address":"ΠΛΑΤΩΝΟΣ 11",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54631,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.95753,40.61385 ]
+    },
+    "properties": {
+    "Id":24255,
+    "Station":"ΣΑΡΚΙΣΙΑΝ ΝΟΥΝΕ",
+    "Address":"ΔΕΛΦΩΝ 38",
+    "Location":"ΦΑΛΗΡΟ ΘΕΣ/ΝΙΚΗΣ",
+    "Postal Code":54646,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.92197,40.67292 ]
+    },
+    "properties": {
+    "Id":27632,
+    "Station":"ΣΟΛΟΜΩΝΙΔΟΥ ΣΟΦΙΑ (ΥΠΟΚ)",
+    "Address":"ΑΓΝΩΣΤΟΥ ΣΤΡΑΤΙΩΤΗ 39",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Postal Code":56533,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.96056,40.65509 ]
+    },
+    "properties": {
+    "Id":24965,
+    "Station":"ΣΟΛΩΜΟΝΙΔΗΣ ΑΘΑΝΑΣΙΟΣ",
+    "Address":"ΑΝΔΡ. ΠΑΠΑΝΔΡΕΟΥ 258",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":56625,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94079,40.63572 ]
+    },
+    "properties": {
+    "Id":24302,
+    "Station":"ΣΤΕΦΑΝΙΔΟΥ ΑΙΚΑΤΕΡΙΝΗ",
+    "Address":"ΕΛΕΥΘΕΡΙΟΥ ΒΕΝΙΖΕΛΟΥ 34",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54624,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.89964,40.66864 ]
+    },
+    "properties": {
+    "Id":24300,
+    "Station":"ΣΥΨΑ ΚΛΕΟΝΙΚΗ",
+    "Address":"Κ. ΚΑΡΑΜΑΝΛΗ 69 ",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":56334,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.95747,40.60793 ]
+    },
+    "properties": {
+    "Id":24884,
+    "Station":"ΤΖΑΟΥΤΣΟΥ ΣΟΦΙΑ",
+    "Address":"ΔΕΛΦΩΝ 94",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54643,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.95719,40.62085 ]
+    },
+    "properties": {
+    "Id":24878,
+    "Station":"ΤΣΙΑΚΙΡΗΣ ΔΗΜΗΤΡΙΟΣ",
+    "Address":"ΛΕΩΦ. ΣΤΡΑΤΟΥ 4",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54640,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.71343,40.66219 ]
+    },
+    "properties": {
+    "Id":26256,
+    "Station":"ΤΣΙΒΕΛΗ ΑΝΑΣΤΑΣΙΑ",
+    "Address":"ΑΝΑΤΟΛΙΚΟ ΘΕΣΑΛΛΟΝΙΚΗΣ ",
+    "Location":"ΑΝΑΤΟΛΙΚΟ ΘΕΣΑΛΛΟΝΙΚΗΣ ",
+    "Postal Code":57300,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.95319,40.60624 ]
+    },
+    "properties": {
+    "Id":21592,
+    "Station":"ΤΣΙΛΙΓΚΟΣ ΓΕΩΡΓΙΟΣ",
+    "Address":"ΒΑΣ. ΟΛΓΑΣ 115-117",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54640,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94454,40.63172 ]
+    },
+    "properties": {
+    "Id":24304,
+    "Station":"ΤΣΙΜΕΡΗΣ ΠΑΝΤΕΛΕΗΜΩΝ",
+    "Address":"ΤΣΙΜΙΣΚΗ 62",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54622,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.91430,40.65631 ]
+    },
+    "properties": {
+    "Id":26500,
+    "Station":"ΤΣΙΟΠΛΟΥ ΑΝΑΣΤΑΣΙΑ",
+    "Address":"Θ ΧΑΤΖΙΚΟΥ 7",
+    "Location":"ΜΕΝΕΜΕΝΗ",
+    "Postal Code":56122,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.97019,40.60790 ]
+    },
+    "properties": {
+    "Id":26661,
+    "Station":"ΤΣΟΓΚΑΣ ΕΥΑΓΓΕΛΟΣ",
+    "Address":"ΠΑΠΑΦΗ 180-182",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54453,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.97445,40.61377 ]
+    },
+    "properties": {
+    "Id":27028,
+    "Station":"ΤΥΠΟΣ PRESS ΜΟΝΟΠΡΟΣΩΠΗ ΕΠΕ (ΥΠΟΚ.1)",
+    "Address":"ΤΥΡΟΛΟΗΣ 32",
+    "Location":"ΚΑΤΩ ΤΟΥΜΠΑ",
+    "Postal Code":54351,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94669,40.62940 ]
+    },
+    "properties": {
+    "Id":27603,
+    "Station":"ΧΑΛΑΡΗΣ ΛΑΖΑΡΟΣ (ΥΠΟΚ. 2)",
+    "Address":"ΜΗΤΡΟΠΟΛΕΩΣ 80-82  ",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54622,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94368,40.63593 ]
+    },
+    "properties": {
+    "Id":24876,
+    "Station":"ΧΑΤΖΗΙΩΑΝΝΙΔΟΥ ΛΙΘΑΡΗ",
+    "Address":"ΕΓΝΑΤΙΑΣ 78",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54624,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.96136,40.60716 ]
+    },
+    "properties": {
+    "Id":5239,
+    "Station":"ΧΑΤΖΗΣΤΑΜΑΤΗΣ ΖΑΦΕΙΡΙΟΣ",
+    "Address":"ΜΑΡΚΟΥ ΜΠΟΤΣΑΡΗ 76",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54644,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.78101,40.71420 ]
+    },
+    "properties": {
+    "Id":26685,
+    "Station":"ΧΡΗΣΤΟΥ ΠΑΝΑΓΙΩΤΗΣ",
+    "Address":"30ΗΣ ΙΟΥΝΙΟΥ 16",
+    "Location":"ΑΓΧΙΑΛΟΣ",
+    "Postal Code":57011,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"SUPER MARKET"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.92912,40.65932 ]
+    },
+    "properties": {
+    "Id":24254,
+    "Station":"ΨΩΜΑ ΜΑΡΙΑΝΝΑ",
+    "Address":"ΚΟΛΟΚΟΤΡΩΝΗ 38",
+    "Location":"ΣΤΑΥΡΟΥΠΟΛΗ",
+    "Postal Code":56430,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.92040,40.64164 ]
+    },
+    "properties": {
+    "Id":1710,
+    "Station":"ΑΛΕΞΑΝΔΡΙΔΟΥ & ΣΙΑ ΟΕ",
+    "Address":"ΑΝΔΡΕΟΥ ΓΕΩΡΓΙΟΥ 36",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54627,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΚΙΝΗΤΗ ΤΗΛΕΦΩΝΙΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.92219,40.65262 ]
+    },
+    "properties": {
+    "Id":23009,
+    "Station":"ΕΡΕΙΛΙΑΔΗΣ ΚΥΡΙΑΚΟΣ",
+    "Address":"ΕΛΕΥΘ. ΒΕΝΙΖΕΛΟΥ 69 - ΑΜΠΕΛΟΚΗΠΟΙ  ",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":56121,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.97006,40.60918 ]
+    },
+    "properties": {
+    "Id":25905,
+    "Station":"ΕΨΙΛΟΝ ΠΛΗΡΟΦΟΡΙΚΗ Ε.Ε.",
+    "Address":"ΜΑΡΚΟΥ ΜΠΟΤΣΑΡΗ 125",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54453,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΕΜΠ. Η/Υ&ΠΕΡΙΦ ΕΞΟΠΛ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94149,40.63359 ]
+    },
+    "properties": {
+    "Id":20429,
+    "Station":"ΚΑΠΛΑΝΗΣ ΜΙΧΑΛΗΣ",
+    "Address":"ΤΣΙΜΙΣΚΗ 28",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54624,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 23.01743,40.54686 ]
+    },
+    "properties": {
+    "Id":25859,
+    "Station":"ΜΑΡΟΥΚΗΣ ΑΛΕΞΑΝΔΡΟΣ",
+    "Address":"ΚΕΣΣΙΔΗ 25",
+    "Location":"ΘΕΡΜΗ",
+    "Postal Code":57001,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΕΜΠ. Η/Υ&ΠΕΡΙΦ ΕΞΟΠΛ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.57692,40.78010 ]
+    },
+    "properties": {
+    "Id":25916,
+    "Station":"ΜΗΝΤΖΑΡΙΔΗΣ ΜΗΝΑΣ",
+    "Address":"ΕΘΝ. ΑΝΤΙΣΤΑΣΗΣ 57",
+    "Location":"ΚΟΥΦΑΛΙΑ",
+    "Postal Code":57100,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΕΜΠ. Η/Υ&ΠΕΡΙΦ ΕΞΟΠΛ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94548,40.63110 ]
+    },
+    "properties": {
+    "Id":20963,
+    "Station":"ΠΕΡΙΠΤΕΡΟ ΤΣΙΜΙΣΚΗ 37 Ε.Ε.",
+    "Address":"ΤΣΙΜΙΣΚΗ 37",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54622,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.96088,40.61296 ]
+    },
+    "properties": {
+    "Id":6613,
+    "Station":"ΚΑΡΑΚΩΣΤΑΣ ΒΑΣΙΛΕΙΟΣ",
+    "Address":"ΚΩΝΣΤΑΝΤΙΝΟΥΠΟΛΕΩΣ 76",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54642,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΕΜΠ. Η/Υ&ΠΕΡΙΦ ΕΞΟΠΛ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94737,40.63139 ]
+    },
+    "properties": {
+    "Id":26558,
+    "Station":"ΚΑΡΑΓΙΑΝΝΗΣ ΧΑΡΑΛΑΜΠΟΣ",
+    "Address":"ΠΑΥΛΟΥ ΜΕΛΑ 29",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54622,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΤΗΛΕΠΙΚΟΙΝΩΝΙΕΣ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.92478,40.65740 ]
+    },
+    "properties": {
+    "Id":25770,
+    "Station":"ΚΙΛΙΤΣΟΓΛΟΥ ΓΕΩΡΓΙΟΣ",
+    "Address":"ΜΕΓΑΛΟΥ ΑΛΕΞΑΝΔΡΟΥ 43",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":56121,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΕΜΠ. Η/Υ&ΠΕΡΙΦ ΕΞΟΠΛ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94101,40.63628 ]
+    },
+    "properties": {
+    "Id":21586,
+    "Station":"ΚΡΙΤΖΙΩΤΗΣ ΙΩΑΝΝΗΣ(ΥΠΟΚ.1)",
+    "Address":"ΕΛ.ΒΕΝΙΖΕΛΟΥ 23",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":56728,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94360,40.64043 ]
+    },
+    "properties": {
+    "Id":20783,
+    "Station":"ΝΤΕΒΕ ΙΩΑΝΝΑ(ΥΠΟΚ.)",
+    "Address":"ΑΓ. ΔΗΜΗΤΡΙΟΥ  64",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54630,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94418,40.63136 ]
+    },
+    "properties": {
+    "Id":25862,
+    "Station":"ΝΩΤΑΣ ΝΙΚ.-ΤΣΑΝΤΕΚΙΔΗΣ ΧΡ. ΟΕ(ΥΠΟΚ.)",
+    "Address":"ΜΗΤΡΟΠΟΛΕΩΣ 67",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54622,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.86947,40.47580 ]
+    },
+    "properties": {
+    "Id":20419,
+    "Station":"ΝΩΤΑΣ ΝΙΚΟΛΑΟΣ",
+    "Address":"ΚΕΡΑΣΙΑ ",
+    "Location":"ΝΕΑ ΜΗΧΑΝΙΩΝΑ",
+    "Postal Code":57004,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94388,40.65145 ]
+    },
+    "properties": {
+    "Id":25782,
+    "Station":"ΤΣΙΑΡΣΙΩΤΗΣ ΦΙΛΙΠΠΟΣ(ΥΠΟΚ.6)",
+    "Address":"Μ. ΜΠΟΤΣΑΡΗ 43",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":56728,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΕΜΠ. Η/Υ&ΠΕΡΙΦ ΕΞΟΠΛ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.96511,40.58440 ]
+    },
+    "properties": {
+    "Id":23035,
+    "Station":"ARGJIROPULOS JOSIF(ΥΠΟΚ.)",
+    "Address":"ΜΕΓΑΛΟΥ ΑΛΕΞΑΝΔΡΟΥ 23-ΚΑΛΑΜΑΡΙΑ  ",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":55134,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94360,40.63339 ]
+    },
+    "properties": {
+    "Id":27080,
+    "Station":"BATTLENET 3D ARISTOTELOUS OE",
+    "Address":"ΒΑΣ ΗΡΑΚΛΕΙΟΥ 40",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54623,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"INTERNET CAFE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.92555,40.50880 ]
+    },
+    "properties": {
+    "Id":26982,
+    "Station":"KARAJ LEONARD",
+    "Address":"ΠΛ. ΕΛΕΥΘΕΡΙΑΣ 4",
+    "Location":"ΠΕΡΑΙΑ",
+    "Postal Code":57019,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94905,40.57652 ]
+    },
+    "properties": {
+    "Id":27771,
+    "Station":"ONE STOP STORES ΙΚΕ & ΣΙΑ ΟΕ",
+    "Address":"ΑΔΑΜΑΝΤΙΟΥ ΚΟΡΑΗ 1",
+    "Location":"ΚΑΛΑΜΑΡΙΑ",
+    "Postal Code":55132,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΑΝΑΨΥΚΤΗΡΙΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94930,40.63779 ]
+    },
+    "properties": {
+    "Id":25004,
+    "Station":"ONE STOP STORES ΙΚΕ & ΣΙΑ ΟΕ(ΥΠΟΚ. 2)",
+    "Address":"ΑΓ. ΔΗΜΗΤΡΙΟΥ 97",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54633,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΑΝΑΨΥΚΤΗΡΙΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94992,40.58321 ]
+    },
+    "properties": {
+    "Id":22982,
+    "Station":"ONE STOP STORES ΙΚΕ & ΣΙΑ ΟΕ(ΥΠΟΚ.)",
+    "Address":"ΜΕΤΑΜΟΡΦΩΣΕΩΣ 25  ",
+    "Location":"ΚΑΛΑΜΑΡΙΑ",
+    "Postal Code":55132,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΑΝΑΨΥΚΤΗΡΙΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.97775,40.61450 ]
+    },
+    "properties": {
+    "Id":23200,
+    "Station":"ONE STOP STORES ΙΚΕ(ΥΠΟΚ.)",
+    "Address":"ΓΡ. ΛΑΜΠΡΑΚΗ 150",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54351,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΕΜΠΟΡΙΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.95290,40.60577 ]
+    },
+    "properties": {
+    "Id":26579,
+    "Station":"ORIGAMI ΙΚΕ - ΦΡΑΝΤΖΗΣ ΣΤ. Ο.Ε",
+    "Address":"ΒΑΣΙΛΙΣΣΗΣ ΟΛΓΑΣ & ΚΟΜΠΟΘΕΚΛΑΣ 121",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54643,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΑΝΑΨΥΚΤΗΡΙΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.93645,40.64005 ]
+    },
+    "properties": {
+    "Id":27009,
+    "Station":"PORJA KRISTINA",
+    "Address":"ΕΓΝΑΤΙΑΣ 1",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54630,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΑΝΤΑΛΛΑΚΤΗΡΙΑ ΣΥΝΑΛΛΑΓΜΑΤΟΣ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.96855,40.56908 ]
+    },
+    "properties": {
+    "Id":22253,
+    "Station":"PRENGA LEKE",
+    "Address":"ΓΕΝΝΗΜΑΤΑ 79 ΚΑΛΑΜΑΡΙΑ  ",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":55132,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.96263,40.58267 ]
+    },
+    "properties": {
+    "Id":27790,
+    "Station":"ΑΘΑΝΑΣΙΑΔΗΣ Σ. -  ΒΟΥΔΟΥΡΗΣ Γ. & ΣΙΑ Ο.Ε",
+    "Address":"ΠΑΠΑΦΛΕΣΣΑ 2",
+    "Location":"ΚΑΛΑΜΑΡΙΑ",
+    "Postal Code":55133,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΑΝΑΨΥΚΤΗΡΙΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.96238,40.58656 ]
+    },
+    "properties": {
+    "Id":23149,
+    "Station":"ΑΘΑΝΑΣΙΑΔΗΣ Σ.- ΦΡΑΝΤΖΗΣ ΟΕ",
+    "Address":"ΕΘΝΙΚΗΣ ΑΝΤΙΣΤΑΣΕΩΣ 30  ",
+    "Location":"ΚΑΛΑΜΑΡΙΑ",
+    "Postal Code":55133,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.85437,40.74374 ]
+    },
+    "properties": {
+    "Id":2120,
+    "Station":"ΑΝΘΟΠΟΥΛΟΥ ΜΑΡΙΑ",
+    "Address":"ΠΕΝΤΑΛΟΦΟΣ",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54500,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΕΜΠ. Η/Υ&ΠΕΡΙΦ ΕΞΟΠΛ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.95340,40.58267 ]
+    },
+    "properties": {
+    "Id":27883,
+    "Station":"ΑΡΓΥΡΟΠΟΥΛΟΣ ΕΡΒΙΣ ",
+    "Address":"ΠΟΝΤΟΥ 67",
+    "Location":"ΚΑΛΑΜΑΡΙΑ",
+    "Postal Code":55131,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.91156,40.66672 ]
+    },
+    "properties": {
+    "Id":22975,
+    "Station":"ΒΕΝΕΤΙΚΙΔΗΣ ΑΝΑΣΤΑΣΙΟΣ",
+    "Address":"ΔΗΜ. ΚΑΡΑΟΛΗ 92",
+    "Location":"ΕΥΟΣΜΟΣ",
+    "Postal Code":56224,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΚΙΝΗΤΗ ΤΗΛΕΦΩΝΙΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94238,40.63411 ]
+    },
+    "properties": {
+    "Id":21581,
+    "Station":"ΓΑΓΑΤΣΗΣ ΠΑΣΧΑΛΗΣ",
+    "Address":"ΒΑΣ.ΗΡΑΚΛΕΙΟΥ 34",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54624,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.98930,40.60317 ]
+    },
+    "properties": {
+    "Id":20214,
+    "Station":"ΓΙΑΞΗ ΚΩΝΣΤΑΝΤΙΝΑ  ΜΟΝ/ΣΩΠΗ ΙΚΕ(ΥΠ.ΠΥΛ.)",
+    "Address":"ΚΥΠΡΟΥ  ΚΑΙ ΒΟΥΛΓΑΡΟΚΤΟΝΟΥ 43Α",
+    "Location":"ΠΥΛΑΙΑ",
+    "Postal Code":55535,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.85766,40.46482 ]
+    },
+    "properties": {
+    "Id":26438,
+    "Station":"ΓΙΑΞΗ ΚΩΝΣΤΑΝΤΙΝΑ ΜΟΝ/ΠΗ ΙΚΕ (ΚΕΝΤΡΙΚΟ)",
+    "Address":"ΠΟΛΥΤΕΧΝΕΙΟΥ 5",
+    "Location":"ΝΕΑ ΜΗΧΑΝΙΩΝΑ",
+    "Postal Code":57004,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.85402,40.68687 ]
+    },
+    "properties": {
+    "Id":21712,
+    "Station":"ΓΚΑΙΤΑΤΖΗΣ ΙΩΑΝΝΗΣ",
+    "Address":"Κ. ΚΑΡΑΜΑΝΛΗ  82",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54642,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.95888,40.57002 ]
+    },
+    "properties": {
+    "Id":3648,
+    "Station":"ΓΚΟΛΙΑ ΑΘΗΝΑ",
+    "Address":"ΚΟΥΝΤΟΥΡΙΩΤΟΥ 42 (ΝΕΑ ΚΡΗΝΗ)",
+    "Location":"ΚΑΛΑΜΑΡΙΑ",
+    "Postal Code":55132,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.85999,40.46428 ]
+    },
+    "properties": {
+    "Id":20418,
+    "Station":"ΓΚΟΥΓΚΟΥΣΗΣ ΝΙΚΟΛΑΟΣ (ΥΠΟΚ)",
+    "Address":"ΠΛ. ΔΗΜΟΚΡΑΤΙΑΣ 17",
+    "Location":"ΝΕΑ ΜΗΧΑΝΙΩΝΑ",
+    "Postal Code":57004,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.90885,40.66868 ]
+    },
+    "properties": {
+    "Id":26428,
+    "Station":"ΓΛΙΑΤΗΣ ΓΕΩΡΓΙΟΣ",
+    "Address":"ΣΜΥΡΝΗΣ 2",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":56224,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΕΜΠ. Η/Υ&ΠΕΡΙΦ ΕΞΟΠΛ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.91025,40.66821 ]
+    },
+    "properties": {
+    "Id":27645,
+    "Station":"ΓΡΗΓΟΡΙΑΔΗΣ ΛΑΖΑΡΟΣ",
+    "Address":"ΠΑΥΛΟΥ ΜΕΛΑ 14-16",
+    "Location":"ΕΥΟΣΜΟΣ",
+    "Postal Code":56224,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΚΑΦΕΝΕΙΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.93018,40.65146 ]
+    },
+    "properties": {
+    "Id":25892,
+    "Station":"ΔΕΛΗΓΙΑΝΝΙΔΗΣ ΚΑΥΣΙΜΑ Ι.Κ.Ε",
+    "Address":"ΕΘΝΙΚΗΣ ΑΝΤΙΣΤΑΣΕΩΣ 82",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":55133,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΡΑΤ.ΥΓΡ.ΚΑΥΣΙΜΩΝ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.97346,40.61209 ]
+    },
+    "properties": {
+    "Id":24939,
+    "Station":"ΔΕΝΗΚΑΡΑ ΛΟΥΚΙΑ",
+    "Address":"ΒΟΣΠΟΡΟΥ 4  ",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54453,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.95137,40.65118 ]
+    },
+    "properties": {
+    "Id":27005,
+    "Station":"ΔΙΑΜΑΝΤΙΔΟΥ ΣΟΦΙΑ",
+    "Address":"ΡΗΓΑ ΦΕΡΑΙΟΥ & ΚΥΠΡΟΥ & ΣΟΥΡΜΕΝΩΝ 1",
+    "Location":"ΣΥΚΙΕΣ",
+    "Postal Code":56626,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΑΝΤΟΠΩΛΕΙΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.72541,40.71347 ]
+    },
+    "properties": {
+    "Id":26935,
+    "Station":"ΔΟΚΤΩΡΗΣ ΔΗΜΗΤΡΙΟΣ",
+    "Address":"ΛΕΩΦ. ΑΘΗΝΩΝ 31",
+    "Location":"ΑΓΙΟΣ ΑΘΑΝΑΣΙΟΣ",
+    "Postal Code":57003,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΕΜΠΟΡΙΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.97195,40.59137 ]
+    },
+    "properties": {
+    "Id":20596,
+    "Station":"ΔΟΜΟΥΖΗΣ Χ.-ΔΟΜΟΥΖΗΣ Α. ΟΕ",
+    "Address":"Δ. ΣΟΛΩΜΟΥ 2 & ΑΛΛΑΤΙΝΗ",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54250,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΜΙΝΙ ΜΑΡΚΕΤ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94649,40.62954 ]
+    },
+    "properties": {
+    "Id":20786,
+    "Station":"ΔΟΜΟΥΖΗΣ Χ.-ΣΑΜΑΡΑΣ Α. & ΣΙΑ ΟΕ",
+    "Address":"ΜΗΤΡΟΠΟΛΕΩΣ 78",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54622,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΜΙΝΙ ΜΑΡΚΕΤ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.95833,40.59620 ]
+    },
+    "properties": {
+    "Id":24393,
+    "Station":"ΔΟΜΟΥΖΗΣ Χ.-ΣΑΜΑΡΑΣ Α. & ΣΙΑ ΟΕ(ΥΠΟΚ.)",
+    "Address":"ΔΕΛΦΩΝ 216",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54665,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"SUPER MARKET"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.95063,40.57371 ]
+    },
+    "properties": {
+    "Id":20375,
+    "Station":"ΔΡΑΓΟΥΙΔΟΥ ΜΑΡΙΑ",
+    "Address":"ΝΙΚ.ΠΛΑΣΤΗΡΑ 85",
+    "Location":"ΚΑΛΑΜΑΡΙΑ",
+    "Postal Code":55132,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.95206,40.59817 ]
+    },
+    "properties": {
+    "Id":26905,
+    "Station":"ΔΡΑΚΟΠΟΥΛΟΣ ΙΩΑΝΝΗΣ ",
+    "Address":"ΓΕΩΡΓΙΟΥ ΠΑΠΑΝΔΡΕΟΥ 34",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54646,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΕΜΠ. Η/Υ&ΠΕΡΙΦ ΕΞΟΠΛ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.96063,40.59133 ]
+    },
+    "properties": {
+    "Id":462,
+    "Station":"ΖΑΡΙΦΗΣ ΘΩΜΑΣ",
+    "Address":"Μ. ΨΕΛΛΟΥ 16",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54655,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΡΑΤ.ΥΓΡ.ΚΑΥΣΙΜΩΝ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.95824,40.60435 ]
+    },
+    "properties": {
+    "Id":27079,
+    "Station":"ΖΑΦΕΙΡΙΔΟΥ ΦΩΤΕΙΝΗ",
+    "Address":"ΔΕΛΦΩΝ 138",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54248,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.95611,40.60610 ]
+    },
+    "properties": {
+    "Id":26592,
+    "Station":"ΖΟΥΡΛΙΟΣ ΓΕΩΡΓΙΟΣ",
+    "Address":"ΧΑΛΚΙΔΙΚΗΣ 40-42",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54643,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"SUPER MARKET"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94301,40.67011 ]
+    },
+    "properties": {
+    "Id":2834,
+    "Station":"ΘΕΟΔΩΡΙΔΟΥ ΚΥΡΙΑΚΗ",
+    "Address":"ΑΡΚΑΔΙΟΥ 24",
+    "Location":"ΠΟΛΙΧΝΗ",
+    "Postal Code":56533,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94518,40.65777 ]
+    },
+    "properties": {
+    "Id":26601,
+    "Station":"ΙΒΑΝΙΔΗΣ ΙΩΑΝΝΗΣ (ΥΠΟΚ.)",
+    "Address":"ΔΙΓΕΝΗ 9-11",
+    "Location":"ΠΟΛΙΧΝΗ",
+    "Postal Code":56533,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"INTERNET CAFE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.99020,40.60961 ]
+    },
+    "properties": {
+    "Id":2587,
+    "Station":"ΙΟΡΔΑΝΙΔΗΣ ΙΩΑΝΝΗΣ",
+    "Address":"17ης  ΝΟΕΜΒΡΙΟΥ 29  ",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54352,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΥΠΗΡΕΣΙΕΣ ΑΣΦΑΛΙΣΤΙΚΟΥ ΣΥΜΒΟΥΛ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.96841,40.62143 ]
+    },
+    "properties": {
+    "Id":20280,
+    "Station":"ΙΩΣΗΦΙΔΗΣ ΚΩΝΣΤΑΝΤΙΝΟΣ",
+    "Address":"ΕΛ. ΒΕΝΙΖΕΛΟΥ 10",
+    "Location":"ΤΡΙΑΝΔΡΙΑ",
+    "Postal Code":55337,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.89846,40.66715 ]
+    },
+    "properties": {
+    "Id":20917,
+    "Station":"ΚΑΛΑΙΤΖΙΔΗΣ ΘΕΟΔΩΡΟΣ",
+    "Address":"Κ. ΚΑΡΑΜΑΝΛΗ 38 (ΠΡΩΗΝ ΤΣΑΛΔΑΡΗ)  ",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":56334,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.57668,40.78196 ]
+    },
+    "properties": {
+    "Id":23156,
+    "Station":"ΚΑΛΟΓΙΑΝΝΗΣ ΑΘΑΝΑΣΙΟΣ",
+    "Address":"ΕΘΝΙΚΗΣ ΑΝΤΙΣΤΑΣΗΣ 83-ΚΟΥΦΑΛΙΑ",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":57100,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΛΟΓΙΣΤΙΚΟ ΓΡΑΦΕΙΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.95058,40.65395 ]
+    },
+    "properties": {
+    "Id":3374,
+    "Station":"ΚΑΜΠΟΥΡΙΔΗΣ ΘΩΜΑΣ",
+    "Address":"ΑΝΔΡ. ΠΑΠΑΝΔΡΕΟΥ 182",
+    "Location":"ΣΥΚΙΕΣ",
+    "Postal Code":56626,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"SUPER MARKET"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94374,40.63296 ]
+    },
+    "properties": {
+    "Id":20637,
+    "Station":"ΚΑΠΛΑΝΗΣ ΜΙΧΑΛΗΣ(ΥΠΟΚ.)",
+    "Address":"ΚΑΡΟΛΟΥ ΝΤΗΛ 22",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54623,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.65334,40.84015 ]
+    },
+    "properties": {
+    "Id":20488,
+    "Station":"ΚΑΡΝΕΜΙΔΗΣ ΗΛΙΑΣ",
+    "Address":"ΑΚΡΟΠΟΤΑΜΟΣ",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":57011,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΑΝΤΟΠΩΛΕΙΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.97458,40.61003 ]
+    },
+    "properties": {
+    "Id":723,
+    "Station":"ΚΑΣΤΡΙΤΣΗ ΠΗΝΕΛΟΠΗ",
+    "Address":"ΒΟΣΠΟΡΟΥ 40",
+    "Location":"ΤΟΥΜΠΑ",
+    "Postal Code":54454,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94548,40.66876 ]
+    },
+    "properties": {
+    "Id":27807,
+    "Station":"ΚΙΟΥΤΟΥΚΙΔΟΥ ΑΝΑΣΤΑΣΙΑ",
+    "Address":"ΑΡΚΑΔΙΟΥ 54",
+    "Location":"ΠΟΛΙΧΝΗ",
+    "Postal Code":56429,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94332,40.63079 ]
+    },
+    "properties": {
+    "Id":21720,
+    "Station":"ΚΛΗΜΕΝΤΙΔΗΣ ΙΩΑΝΝΗΣ",
+    "Address":"ΑΓ. ΣΟΦΙΑΣ 4",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54623,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.95685,40.65186 ]
+    },
+    "properties": {
+    "Id":27770,
+    "Station":"ΚΟΓΙΑΣ Χ  ΠΑΠΑΔΟΠΟΥΛΟΣ Ν ΚΑΝΕΛΙΔΗΣ Ι ΟE ",
+    "Address":"ΕΠΤΑΠΥΡΓΙΟΥ 57-59",
+    "Location":"ΣΥΚΙΕΣ",
+    "Postal Code":56626,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΕΙΔΗ ΔΙΑΤΡΟΦΗΣ-ΚΑΠΝΟΥ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94069,40.66651 ]
+    },
+    "properties": {
+    "Id":21939,
+    "Station":"ΚΟΙΝΩΝΙΚΟΣ ΣΥΝΕΤΑΙΡΙΣΜΟΣ Π. Ε.",
+    "Address":"ΛΑΓΚΑΔΑ 196(ΕΝΤΟΣ ΨΥΧ/ΤΡΙΚΟΥ ΝΟΣΟΚΟΜΕΙΟΥ) ",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":56429,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΚΥΛΙΚΕΙΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.99661,40.46717 ]
+    },
+    "properties": {
+    "Id":24953,
+    "Station":"ΚΟΚΚΑΣ ΠΑΝΑΓΙΩΤΗΣ",
+    "Address":"ΚΑΡΔΙΑ ΑΡΙΣΤΕΡΟ ΚΑΤΑΣΤ ΑΛ ΥΨΗΛΑΝΤΟΥ 10",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":57500,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94020,40.63791 ]
+    },
+    "properties": {
+    "Id":20742,
+    "Station":"ΚΟΤΣΙΑΝΤΩΝΙΟΥ ΓΙΑΚΟΥΜΗΣ",
+    "Address":"ΕΓΝΑΤΙΑΣ 44",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54629,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.90656,40.66995 ]
+    },
+    "properties": {
+    "Id":26491,
+    "Station":"ΚΟΥΓΙΟΥΜΤΖΗΣ  ΖΑΧΑΡΙΑΣ ",
+    "Address":"ΜΕΓΑΛΟΥ ΑΛΕΞΑΝΔΡΟΥ 31",
+    "Location":"ΕΥΟΣΜΟΣ",
+    "Postal Code":56224,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΕΜΠ. Η/Υ&ΠΕΡΙΦ ΕΞΟΠΛ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.90657,40.66992 ]
+    },
+    "properties": {
+    "Id":22876,
+    "Station":"ΚΟΥΚΑΚΗΣ-ΣΙΔΗΡΟΠΟΥΛΟΣ & ΣΙΑ ΟΕ",
+    "Address":"ΜΕΓ. ΑΛΕΞΑΝΔΡΟΥ 40",
+    "Location":"ΕΥΟΣΜΟΣ",
+    "Postal Code":56224,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΚΙΝΗΤΗ ΤΗΛΕΦΩΝΙΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.93187,40.64639 ]
+    },
+    "properties": {
+    "Id":9659,
+    "Station":"ΚΟΥΚΑΚΗΣ-ΣΙΔΗΡΟΠΟΥΛΟΣ & ΣΙΑ ΟΕ(ΥΠΟΚ.)",
+    "Address":"Ν.ΜΕΣΗΜΒΡΙΑ ",
+    "Location":"ΔΙΑΒΑΤΑ",
+    "Postal Code":57008,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΚΙΝΗΤΗ ΤΗΛΕΦΩΝΙΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.92815,40.66622 ]
+    },
+    "properties": {
+    "Id":26522,
+    "Station":"ΚΟΥΛΙΚΑΣ  ΒΑΣΙΛΕΙΟΣ",
+    "Address":"ΚΑΡΑΟΛΗ ΚΑΙ ΔΜΗΤΡΙΟΥ 253",
+    "Location":"ΣΤΑΥΡΟΥΠΟΛΗ",
+    "Postal Code":56431,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΚΙΝΗΤΗ ΤΗΛΕΦΩΝΙΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94505,40.63236 ]
+    },
+    "properties": {
+    "Id":169,
+    "Station":"ΚΟΥΤΚΟΣ ΓΕΩΡΓΙΟΣ",
+    "Address":"ΑΓ. ΣΟΦΙΑΣ 24",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54622,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94021,40.64934 ]
+    },
+    "properties": {
+    "Id":21588,
+    "Station":"ΚΡΙΤΖΙΩΤΗΣ ΙΩΑΝΝΗΣ",
+    "Address":"ΡΗΓΑ ΦΕΡΡΑΙΟΥ & ΟΥΛΩΦ ΠΑΛΜΕ 44",
+    "Location":"ΝΕΑΠΟΛΗ",
+    "Postal Code":56728,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.92176,40.67292 ]
+    },
+    "properties": {
+    "Id":21587,
+    "Station":"ΚΡΙΤΖΙΩΤΗΣ ΙΩΑΝΝΗΣ(ΥΠΟΚ.2) ",
+    "Address":"ΑΓΝΩΣΤΟΥ ΣΤΡΑΤΙΩΤΗ 74",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":56533,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 23.04920,40.54590 ]
+    },
+    "properties": {
+    "Id":27060,
+    "Station":"ΚΩΝΣΤΑΝΤΙΝΙΔΗΣ ΙΩΑΝΝΗΣ",
+    "Address":"ΤΡΙΑΔΙ",
+    "Location":"ΘΕΡΜΗ",
+    "Postal Code":57001,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΡΑΤ.ΥΓΡ.ΚΑΥΣΙΜΩΝ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.95084,40.65402 ]
+    },
+    "properties": {
+    "Id":24409,
+    "Station":"ΚΩΣΤΟΠΟΥΛΟΣ ΧΡΗΣΤΟΣ",
+    "Address":"ΑΝΔΡΕΑ ΠΑΠΑΝΔΡΕΟΥ 188  ",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":56626,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΤΗΛΕΠΙΚΟΙΝΩΝΙΕΣ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94003,40.69578 ]
+    },
+    "properties": {
+    "Id":2074,
+    "Station":"ΚΩΤΣΙΟΠΟΥΛΟY - PETROLEUM ΕΠΕ",
+    "Address":"1,4 ΧΛΜ. ΘΕΣ/ΝΙΚΗΣ-ΩΡΑΙΟΚΑΣΤΡΟΥ",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":56429,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΡΑΤ.ΥΓΡ.ΚΑΥΣΙΜΩΝ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.93737,40.63730 ]
+    },
+    "properties": {
+    "Id":25835,
+    "Station":"ΛΑΖΑΡΟΥ ΧΡΗΣΤΟΣ",
+    "Address":"ΜΑΚΕΔΟΝΙΑΣ 21",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54642,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.96889,40.57844 ]
+    },
+    "properties": {
+    "Id":7973,
+    "Station":"ΜΑΡΟΣ ΑΝΤΩΝΙΟΣ",
+    "Address":"ΕΘΝ.ΑΝΤΙΣΤΑΣΕΩΣ 181",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":55134,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΡΑΤ.ΥΓΡ.ΚΑΥΣΙΜΩΝ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 23.00466,40.72348 ]
+    },
+    "properties": {
+    "Id":2298,
+    "Station":"ΜΑΤΣΙΚΟΥΔΗ ΕΛΙΣΑΒΕΤ",
+    "Address":"ΛΑΓΥΝΑ",
+    "Location":"ΛΑΓΥΝΑ",
+    "Postal Code":57200,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΡΑΤ.ΥΓΡ.ΚΑΥΣΙΜΩΝ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.90720,40.66122 ]
+    },
+    "properties": {
+    "Id":1139,
+    "Station":"ΜΗΤΑΚΟΥ ΧΡΥΣΗ",
+    "Address":"ΚΟΣΜΑ ΑΙΤΩΛΟΥ 51",
+    "Location":"ΕΥΟΣΜΟΣ",
+    "Postal Code":56224,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 23.02109,40.58704 ]
+    },
+    "properties": {
+    "Id":26941,
+    "Station":"ΜΗΤΣΚΑ ΜΑΡΙΑ (ΥΠΟΚ.)",
+    "Address":"Π.ΛΕΒΑΝΤΗ ΚΑΙ ΙΠΠΟΚΡΑΤΟΥΣ (ΓΩΝΙΑ)",
+    "Location":"ΠΑΝΟΡΑΜΑ ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Postal Code":55236,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94785,40.62996 ]
+    },
+    "properties": {
+    "Id":20775,
+    "Station":"ΜΙΣΣΙΟΣ ΠΕΤΡΟΣ",
+    "Address":"ΠΑΥΛΟΥ ΜΕΛΑ 18",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54621,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.95706,40.65941 ]
+    },
+    "properties": {
+    "Id":21710,
+    "Station":"ΜΙΣΣΙΟΣ ΠΕΤΡΟΣ (ΥΠΟΚ)",
+    "Address":"ΒΑΣ. ΟΛΓΑΣ 72",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54643,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.95215,40.63166 ]
+    },
+    "properties": {
+    "Id":20430,
+    "Station":"ΜΠΑΚΙΡΤΖΗΣ ΠΕΤΡΟΣ",
+    "Address":"ΕΓΝΑΤΙΑΣ 148",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54640,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.93243,40.50753 ]
+    },
+    "properties": {
+    "Id":27050,
+    "Station":"ΜΠΑΛΑΣΚΑΣ ΕΥΑΓΓΕΛΟΣ (ΥΠΟΚ)",
+    "Address":"ΑΝΘΕΩΝ 44",
+    "Location":"ΠΕΡΑΙΑ",
+    "Postal Code":57019,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΑΝΑΨΥΚΤΗΡΙΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 23.02090,40.54517 ]
+    },
+    "properties": {
+    "Id":24924,
+    "Station":"ΜΠΑΛΤΟΓΛΟΥ ΚΩΝ/ΝΟΣ",
+    "Address":"ΡΗΓΑ ΦΕΡΑΙΟΥ 23",
+    "Location":"ΘΕΣ/ΝΙΚΗ",
+    "Postal Code":57001,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"SUPER MARKET"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.96410,40.60242 ]
+    },
+    "properties": {
+    "Id":20406,
+    "Station":"ΜΠΑΜΠΑΛΑΣ ΣΑΡΑΦΙΑΝΟΣ",
+    "Address":"Κ. ΚΑΡΑΜΑΝΛΗ 142",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54248,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.92660,40.64766 ]
+    },
+    "properties": {
+    "Id":27813,
+    "Station":"ΜΠΕΝΑΚΗΣ ΜΙΧΑΗΛ ",
+    "Address":"ΑΓ ΠΑΝΤΩΝ 69",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54629,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΚΑΦΕΝΕΙΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.95562,40.58269 ]
+    },
+    "properties": {
+    "Id":21042,
+    "Station":"ΝΤΑΛΑΜΠΙΡΑ ΕΛΕΝΗ(ΥΠΟΚ.)",
+    "Address":"ΠΑΣΑΛΙΔΗ 130  ",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":55133,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.92150,40.64657 ]
+    },
+    "properties": {
+    "Id":22628,
+    "Station":"ΝΩΤΑΣ ΝΙΚ. - ΤΣΑΝΤΕΚΙΔΗΣ ΧΡ. ΟΕ",
+    "Address":"ΓΙΑΝΝΙΤΣΩΝ 61  ",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54627,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.95409,40.65470 ]
+    },
+    "properties": {
+    "Id":24422,
+    "Station":"ΞΑΝΘΟΠΟΥΛΟΣ ΘΕΟΔΩΡΟΣ(ΥΠΟΚ.)",
+    "Address":"ΑΝΔ. ΠΑΠΑΝΔΡΕΟΥ 209-211",
+    "Location":"ΝΕΑΠΟΛΗ",
+    "Postal Code":56532,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΤΗΛΕΠΙΚΟΙΝΩΝΙΕΣ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94959,40.62852 ]
+    },
+    "properties": {
+    "Id":25885,
+    "Station":"ΠΑΝΑΓΟΠΟΥΛΟΣ Π. ΚΑΙ ΣΙΑ Ε.Ε.",
+    "Address":"ΤΣΙΜΙΣΚΗ 124  ",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54621,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"INTERNET STATION"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.92057,40.67492 ]
+    },
+    "properties": {
+    "Id":403,
+    "Station":"ΠΑΝΟΝΙΔΗΣ ΠΑΝΑΓΙΩΤΗΣ",
+    "Address":"ΠΑΝ. ΦΑΝΕΡΩΜΕΝΗΣ 41",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54632,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.85126,40.68817 ]
+    },
+    "properties": {
+    "Id":22873,
+    "Station":"ΠΑΠΑ ΚΩΝΣΤΑΝΤΙΝΑ",
+    "Address":"Κ. ΚΑΡΑΜΑΝΛΗ 181",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54249,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΚΑΦΕΤΕΡΙΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.90417,40.66729 ]
+    },
+    "properties": {
+    "Id":6876,
+    "Station":"ΠΑΠΑΔΟΠΟΥΛΟΣ ΣΤΥΛΙΑΝΟΣ",
+    "Address":"ΠΕΡΙΚΛΕΟΥΣ 26",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":56224,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΒΙΒΛΙΟΠΩΛΕΙΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.95854,40.60697 ]
+    },
+    "properties": {
+    "Id":25007,
+    "Station":"ΠΑΠΑΔΟΠΟΥΛΟΥ ΝΑΤΑΛΙΑ",
+    "Address":"ΜΑΡΚΟΥ ΜΠΟΤΣΑΡΗ 54",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54644,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΚΙΝΗΤΗ ΤΗΛΕΦΩΝΙΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 23.69609,40.66418 ]
+    },
+    "properties": {
+    "Id":23174,
+    "Station":"ΠΑΣΑΛΗΣ ΑΘΑΝΑΣΙΟΣ",
+    "Address":"ΣΤΑΥΡΟΣ  ",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":57014,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΚΙΝΗΤΗ ΤΗΛΕΦΩΝΙΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.89762,40.66621 ]
+    },
+    "properties": {
+    "Id":25830,
+    "Station":"ΠΕΡΙΠΤΕΡΟ ΚΩΝ. ΚΑΡΑΜΑΝΛΗ ΚΟΡΔΕΛΙΟ ΕΕ",
+    "Address":"ΚΩΝ. ΚΑΡΑΜΑΝΛΗ & ΜΕΓ. ΑΛΕΞΑΝΔΡΟΥ",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":56334,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94704,40.63003 ]
+    },
+    "properties": {
+    "Id":21576,
+    "Station":"ΠΕΡΙΠΤΕΡΟ ΤΣΙΜΙΣΚΗ 94 Ε.Ε",
+    "Address":"ΤΣΙΜΙΣΚΗ 94",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54624,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94725,40.62744 ]
+    },
+    "properties": {
+    "Id":24272,
+    "Station":"ΠΕΣΙΡΙΔΟΥ ΕΛΕΝΗ",
+    "Address":"ΛΕΩΦ. ΝΙΚΗΣ 75",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54622,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94956,40.57503 ]
+    },
+    "properties": {
+    "Id":22245,
+    "Station":"ΠΟΥΛΧΑΡΙΔΗΣ ΙΩΑΝΝΗΣ",
+    "Address":"ΧΡ. ΣΜΥΡΝΗΣ 18 ΚΑΛΑΜΑΡΙΑ  ",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":55132,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.93945,40.65551 ]
+    },
+    "properties": {
+    "Id":321,
+    "Station":"ΠΟΥΡΠΟΥΤΙΔΗΣ ΧΡΗΣΤΟΣ",
+    "Address":"Π. ΤΣΑΛΔΑΡΗ 38  ",
+    "Location":"ΝΕΑΠΟΛΗ",
+    "Postal Code":56728,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.96033,40.61380 ]
+    },
+    "properties": {
+    "Id":26678,
+    "Station":"ΡΟΥΠΑΣ ΑΛΕΞΑΝΔΡΟΣ",
+    "Address":"ΚΩΝΣΤΑΝΤΙΝΟΥΠΟΛΕΩΣ 64",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54641,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΚΤΗΜΑΤΟΜΕΣΙΤΙΚΟ ΓΡΑΦΕΙΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.78191,40.71418 ]
+    },
+    "properties": {
+    "Id":23013,
+    "Station":"ΣΑΠΟΥΝΑΣ ΓΕΩΡΓΙΟΣ",
+    "Address":"14ο ΧΛΜ ΠΕΟ ΘΕΣ/ΝΙΚΗΣ ΒΕΡΟΙΑΣ-ΛΙΒΑΔΙ  ",
+    "Location":"ΑΓΧΙΑΛΟΣ",
+    "Postal Code":57011,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΡΑΤ.ΥΓΡ.ΚΑΥΣΙΜΩΝ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.95595,40.59768 ]
+    },
+    "properties": {
+    "Id":21582,
+    "Station":"ΣΑΡΑΚΙΝΟΥ ΝΙΚ. ΔΗΜΗΤΡΙΟΣ",
+    "Address":"ΒΑΣ. ΟΛΓΑΣ 207",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54646,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94095,40.67175 ]
+    },
+    "properties": {
+    "Id":20994,
+    "Station":"ΣΑΡΑΦΙΔΗΣ ΧΡΗΣΤΟΣ",
+    "Address":"ΛΕΩΦ. ΣΤΡΑΤΟΥ 26",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":56429,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"SUPER MARKET"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.96628,40.60808 ]
+    },
+    "properties": {
+    "Id":20408,
+    "Station":"ΣΕΜΕΡΤΖΙΔΗΣ ΚΩΝΣΤΑΝΤΙΝΟΣ",
+    "Address":"ΑΛΕΞΑΝΔΡΟΥ ΠΑΠΑΝΑΣΤΑΣΙΟΥ 90",
+    "Location":"ΤΟΥΜΠΑ ΧΑΡΙΛΑΟΥ",
+    "Postal Code":54644,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.91270,40.66466 ]
+    },
+    "properties": {
+    "Id":24901,
+    "Station":"ΣΥΜΕΩΝΙΔΗΣ ΧΑΡΑΛΑΜΠΟΣ",
+    "Address":"ΚΟΥΝΤΟΥΡΙΩΤΟΥ 21",
+    "Location":"ΕΥΟΣΜΟΣ ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Postal Code":56224,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94178,40.63254 ]
+    },
+    "properties": {
+    "Id":21578,
+    "Station":"ΤΖΗΚΟΠΟΥΛΟΣ ΝΙΚΟΛΑΟΣ",
+    "Address":"ΜΗΤΡΟΠΟΛΕΩΣ 37",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54623,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.96191,40.60153 ]
+    },
+    "properties": {
+    "Id":1320,
+    "Station":"ΤΟΜΠΟΥΛΟΓΛΟΥ Κ.",
+    "Address":"25 ΜΑΡΤΙΟΥ 86",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54248,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΚΙΝΗΤΗ ΤΗΛΕΦΩΝΙΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.90234,40.66386 ]
+    },
+    "properties": {
+    "Id":2899,
+    "Station":"ΤΣΑΚΙΡΗΣ ΙΟΡΔΑΝΗΣ",
+    "Address":"ΚΟΣΜΑ ΑΙΤΩΛΟΥ 2",
+    "Location":"ΕΥΟΣΜΟΣ",
+    "Postal Code":56224,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.96451,40.65715 ]
+    },
+    "properties": {
+    "Id":22345,
+    "Station":"ΤΣΑΝΤΕΚΙΔΗΣ ΧΡ & ΚΑΚΛΕΙΔΗΣ ΧΡ ΟΕ",
+    "Address":"ΑΝΔΡ. ΠΑΠΑΝΔΡΕΟΥ 269",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":56532,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.99222,40.59670 ]
+    },
+    "properties": {
+    "Id":27772,
+    "Station":"ΤΣΑΝΤΕΚΙΔΗΣ ΧΡ & ΚΑΚΛΕΙΔΗΣ ΧΡ ΟΕ (ΥΠ. 1)",
+    "Address":"ΠΡΑΣΑΚΑΚΗ 76",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":55535,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.96728,40.62181 ]
+    },
+    "properties": {
+    "Id":27773,
+    "Station":"ΤΣΑΝΤΕΚΙΔΗΣ ΧΡ & ΝΩΤΑΣ ΝΙΚ ΟΕ",
+    "Address":"ΑΜΜΟΥΛΙΑΝΗΣ & ΑΓΙΟΥ ΔΗΜΗΤΡΙΟΥ ",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54638,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94994,40.62736 ]
+    },
+    "properties": {
+    "Id":20409,
+    "Station":"ΤΣΑΝΤΕΚΙΔΗΣ ΧΡΗΣΤΟΣ",
+    "Address":"ΚΑΡΑΟΛΗ ΚΑΙ ΔΗΜΗΤΡΙΟΥ 2",
+    "Location":"ΣΤΑΥΡΟΥΠΟΛΗ",
+    "Postal Code":56429,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.89438,40.66973 ]
+    },
+    "properties": {
+    "Id":23002,
+    "Station":"ΤΣΑΝΤΕΚΙΔΗΣ ΧΡΗΣΤΟΣ(ΥΠΟΚ.)",
+    "Address":"ΑΝΔΡΕΑ ΠΑΠΑΝΔΡΕΟΥ 58-ΕΛΕΥΘΕΡΙΟ",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":56334,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.96808,40.60555 ]
+    },
+    "properties": {
+    "Id":3304,
+    "Station":"ΤΣΙΠΟΥΡΙΔΗΣ ΚΩΝ/ΝΟΣ",
+    "Address":"ΑΛ. ΠΑΠΑΝΑΣΤΑΣΙΟΥ 106",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54248,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΚΙΝΗΤΗ ΤΗΛΕΦΩΝΙΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.96101,40.60513 ]
+    },
+    "properties": {
+    "Id":3303,
+    "Station":"ΤΣΙΠΟΥΡΙΔΗΣ ΚΩΝ/ΝΟΣ (1)",
+    "Address":"ΠΕΤΡΟΥ ΣΥΝΔΙΚΑ 64",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54248,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΚΙΝΗΤΗ ΤΗΛΕΦΩΝΙΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.93863,40.63512 ]
+    },
+    "properties": {
+    "Id":24868,
+    "Station":"ΤΣΟΛΑΚΗΣ ΝΙΚΟΛΑΟΣ",
+    "Address":"ΤΣΙΜΙΣΚΗ 6 ",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54624,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.95128,40.63554 ]
+    },
+    "properties": {
+    "Id":27653,
+    "Station":"ΦΙΛΙΑ ΙΚΕ",
+    "Address":"ΟΛΥΜΠΟΥ 117  ",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54643,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΕΜΠ. Η/Υ&ΠΕΡΙΦ ΕΞΟΠΛ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.93502,40.68067 ]
+    },
+    "properties": {
+    "Id":27642,
+    "Station":"ΦΛΩΡΟΠΟΥΛΟΣ ΚΩΝΣΤΑΝΤΙΝΟΣ",
+    "Address":"ΑΡΗ ΒΕΛΟΥΧΙΩΤΗ 6",
+    "Location":"ΑΜΠΕΛΟΚΗΠΟΙ",
+    "Postal Code":56121,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΕΜΠ. Η/Υ&ΠΕΡΙΦ ΕΞΟΠΛ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94080,40.63296 ]
+    },
+    "properties": {
+    "Id":20428,
+    "Station":"ΦΡΑΓΚΟΠΟΥΛΟΣ ΕΥΑΓΓΕΛΟΣ",
+    "Address":"ΠΛ. ΑΡΙΣΤΟΤΕΛΟΥΣ 7",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54624,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.78076,40.71518 ]
+    },
+    "properties": {
+    "Id":5082,
+    "Station":"ΦΩΤΙΑΔΟΥ ΔΕΣΠ. & ΣΙΑ ΕΕ",
+    "Address":"ΒΙΠΕ ΣΙΝΔΟΥ ΟΤ 61",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":57022,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΡΑΤ.ΥΓΡ.ΚΑΥΣΙΜΩΝ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.96578,40.60863 ]
+    },
+    "properties": {
+    "Id":22902,
+    "Station":"ΧΑΡΙΖΑΝΗΣ ΗΛΙΑΣ",
+    "Address":"ΑΛ. ΠΑΠΑΝΑΣΤΑΣΙΟΥ 88",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54644,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΚΙΝΗΤΗ ΤΗΛΕΦΩΝΙΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94889,40.63177 ]
+    },
+    "properties": {
+    "Id":27691,
+    "Station":"ΧΑΡΙΖΑΝΗΣ ΗΛΙΑΣ (ΥΠΟΚ.)",
+    "Address":"ΣΒΩΛΟΥ ΑΛ. 15 & Π. ΠΑΤΡΩΝ ΓΕΡΜΑΝΟΥ 32 ",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54622,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΚΙΝΗΤΗ ΤΗΛΕΦΩΝΙΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94952,40.60088 ]
+    },
+    "properties": {
+    "Id":21175,
+    "Station":"ΧΟΡΤΑΡΙΔΗΣ Ι.-ΧΑΡΙΤΩΝΙΔΗΣ Χ. ΟΕ",
+    "Address":"Μ. ΚΑΛΛΑΣ & ΚΟΡΟΜΗΛΑ",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54645,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.97117,40.59830 ]
+    },
+    "properties": {
+    "Id":22926,
+    "Station":"ΧΟΡΤΑΡΙΔΗΣ Ι.-ΧΑΡΙΤΩΝΙΔΗΣ Χ. ΟΕ(ΥΠΟΚ.)",
+    "Address":"ΠΑΠΑΝΑΣΤΑΣΙΟΥ ΑΛΕΞΑΝΔΡΟΥ 187-191  ",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54250,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.66984,40.79966 ]
+    },
+    "properties": {
+    "Id":22271,
+    "Station":"ΧΡΙΣΤΟΦΟΡΙΔΗΣ ΝΙΚΟΛΑΟΣ",
+    "Address":"ΠΡΟΧΩΜΑ",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":57011,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΡΑΤ.ΥΓΡ.ΚΑΥΣΙΜΩΝ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.91871,40.67709 ]
+    },
+    "properties": {
+    "Id":21664,
+    "Station":"ΓΙΑΞΗ ΚΩΝΣΤΑΝΤΙΝΑ ΜΟΝ.ΙΚΕ (ΕΥΟΣ.)",
+    "Address":"ΑΝΤΩΝΗ ΤΡΙΤΣΗ & ΚΕΔΡΩΝ ",
+    "Location":"ΕΥΟΣΜΟΣ",
+    "Postal Code":56224,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.90734,40.67752 ]
+    },
+    "properties": {
+    "Id":20215,
+    "Station":"ΓΙΑΞΗ ΚΩΝΣΤΑΝΤΙΝΑ ΜΟΝ/ΠΗ ΙΚΕ(ΥΠ.ΕΥΟΣΜ.)",
+    "Address":"ΑΝΤΩΝΗ ΤΡΙΤΣΗ ΚΑΙ ΚΑΛΛΙΠΑΤΕΙΡΑΣ",
+    "Location":"ΕΥΟΣΜΟΣ",
+    "Postal Code":56224,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.95327,40.62929 ]
+    },
+    "properties": {
+    "Id":21171,
+    "Station":"ΜΠΕΡΜΠΕΡΟΓΛΟΥ ΜΑΡΙΓΟΥΛΑ",
+    "Address":"ΑΓΓΕΛΑΚΗ 27",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54621,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 23.01617,40.54468 ]
+    },
+    "properties": {
+    "Id":27003,
+    "Station":"ΤΣΑΧΟΥΡΙΔΗΣ ΚΩΝΣΤΑΝΤΙΝΟΣ (ΥΠΟΚ. 1)",
+    "Address":"Σ. ΠΕΤΡΟΥΛΑ- ΑΛ. ΠΑΠΑΔΟΥ ",
+    "Location":"ΘΕΡΜΗ",
+    "Postal Code":57001,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.98847,40.49712 ]
+    },
+    "properties": {
+    "Id":22166,
+    "Station":"ΜΠΑΛΑΣΚΑΣ ΕΥΑΓΓΕΛΟΣ",
+    "Address":"ΜΕΤΑΜΟΡΦΩΣΕΩΣ 5 ΝΕΟ ΡΥΣΙΟ",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":57001,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.84785,40.68600 ]
+    },
+    "properties": {
+    "Id":20913,
+    "Station":"ΚΙΟΥΤΣΟΥΚΗΣ ΑΝΔΡΕΑΣ",
+    "Address":"ΔΑΒΑΚΗ 40",
+    "Location":"ΝΕΑ ΜΑΓΝΗΣΙΑ",
+    "Postal Code":57008,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"SUPER MARKET"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.88601,40.70293 ]
+    },
+    "properties": {
+    "Id":26929,
+    "Station":"MR FAST ΜΟΝΟΠΡΟΣΩΠΗ ΙΚΕ (ΚΕΝΤΡΙΚΟ)",
+    "Address":"ΣΥΜΜΑΧΙΚΗ ΟΔΟΣ ΩΡΑΙΟΚΑΣΤΡΟΥ ",
+    "Location":"ΔΙΑΒΑΤΑ",
+    "Postal Code":57008,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΡΑΤ.ΥΓΡ.ΚΑΥΣΙΜΩΝ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94121,40.63972 ]
+    },
+    "properties": {
+    "Id":24314,
+    "Station":"ΖΩΙΟΓΛΟΥ ΑΒΡΑΑΜ (ΥΠΟΚ)",
+    "Address":"ΑΦΕΝΤΟΥΛΗ 1 ΚΑΙ ΚΡΥΣΤΑΛΛΗ",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54630,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.93738,40.64034 ]
+    },
+    "properties": {
+    "Id":24313,
+    "Station":"ΖΩΙΟΓΛΟΥ ΑΒΡΑΑΜ (ΚΕΝΤΡΙΚΟ)",
+    "Address":"ΚΑΡΑΟΛΗ ΚΑΙ ΔΗΜΗΤΡΙΟΥ 8-10",
+    "Location":"ΘΕΣΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54630,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94848,40.63185 ]
+    },
+    "properties": {
+    "Id":24311,
+    "Station":"ΠΑΠΑΔΟΠΟΥΛΟΣ ΚΩΝΣΤΑΝΤΙΝΟΣ",
+    "Address":"ΑΛΕΞΑΝΔΡΟΥ ΣΒΩΛΟΥ 16",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54622,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94592,40.63918 ]
+    },
+    "properties": {
+    "Id":28190,
+    "Station":"ΚΕΡΑΜΙΔΑΣ ΚΥΡΙΑΚΟΣ & ΣΙΑ ΟΕ",
+    "Address":"ΑΓ.ΔΗΜΗΤΡΙΟΥ 84",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54631,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.95094,40.63257 ]
+    },
+    "properties": {
+    "Id":28189,
+    "Station":"ΑΡΑΒΙΔΗΣ ΗΛΙΑΣ",
+    "Address":"ΙΑΣΩΝΙΔΟΥ ΛΕΩΝΙΔΑ 2",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54635,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94460,40.64133 ]
+    },
+    "properties": {
+    "Id":27931,
+    "Station":"ΑΓΓΕΛΙΔΟΥ ΕΛΕΝΗ",
+    "Address":"ΚΑΣΣΑΝΔΡΟΥ 37",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54633,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΑΝΤΟΠΩΛΕΙΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.95263,40.68827 ]
+    },
+    "properties": {
+    "Id":27925,
+    "Station":"ΚΑΖΑΚΗΣ ΕΥΑΓΓΕΛΟΣ",
+    "Address":"ΑΓΙΟΥ ΓΕΩΡΓΙΟΥ 19A",
+    "Location":"ΝΕΑ ΕΥΚΑΡΠΙΑ",
+    "Postal Code":56429,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 23.01654,40.54421 ]
+    },
+    "properties": {
+    "Id":27924,
+    "Station":"ΑΦΟΙ ΤΣΑΧΟΥΡΙΔΗ Ο.Ε",
+    "Address":"Σ ΠΕΤΡΟΥΛΑ & ΑΛ ΠΑΠΑΓΟΥ",
+    "Location":"ΘΕΡΜΗ",
+    "Postal Code":57001,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94532,40.63062 ]
+    },
+    "properties": {
+    "Id":27920,
+    "Station":"ΠΑΠΑΚΩΣΤΑΣ ΙΩΑΝΝΗΣ",
+    "Address":"ΜΗΤΡΟΠΟΛΕΩΣ 81",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54622,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΛΙΑΝΙΚΟ ΕΜΠ.ΕΙΔ.ΔΙΑΤΡΟΦΗΣ-ΤΣΙΓ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.95315,40.62923 ]
+    },
+    "properties": {
+    "Id":27905,
+    "Station":"ΜΠΟΥΡΟΝΙΚΟΣ Β. & ΣΙΑ ΟΕ",
+    "Address":"ΑΓΓΕΛΑΚΗ 25",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54621,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΑΝΑΨΥΚΤΗΡΙΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.98568,40.60900 ]
+    },
+    "properties": {
+    "Id":27896,
+    "Station":"ΠΑΝΤΕΛΙΔΟΥ ΠΑΣΧΑΛΙΑ ",
+    "Address":"ΛΑΖΑΡΟΥ ΤΣΑΜΗ 70",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54352,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.93201,40.50648 ]
+    },
+    "properties": {
+    "Id":27847,
+    "Station":"ΤΕΡΤΕΡΑΣΒΙΛΙ ΗΛΙΑΣ",
+    "Address":"ΑΚΤΗΣ & ΦΙΛΙΠΠΟΥ ",
+    "Location":"ΠΕΡΑΙΑ",
+    "Postal Code":57019,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.90527,40.66399 ]
+    },
+    "properties": {
+    "Id":27670,
+    "Station":"ΜΥΛΩΝΑΣ ΝΙΚΟΛΑΟΣ",
+    "Address":"ΜΑΚΕΔΟΝΙΑΣ 10",
+    "Location":"ΕΥΟΣΜΟΣ",
+    "Postal Code":56224,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΜΙΝΙ ΜΑΡΚΕΤ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.97392,40.61886 ]
+    },
+    "properties": {
+    "Id":26580,
+    "Station":"ΝΑΣΤΟΥ ΕΥΑΓΓΕΛΙΑ",
+    "Address":"ΙΣΙΔΩΡΟΥ & ΠΡΩΤΟΛΕΟΝΤΟΣ 29-35",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54351,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.90867,40.66706 ]
+    },
+    "properties": {
+    "Id":26527,
+    "Station":"ΜΙΝΜΠΑΣΙΡΙΔΟΥ ΑΓΚΟΥΝΙΚ",
+    "Address":"28ΗΣ ΟΚΤΩΒΡΙΟΥ 6",
+    "Location":"ΕΥΟΣΜΟΣ",
+    "Postal Code":56224,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΑΝΑΨΥΚΤΗΡΙΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.91111,40.66658 ]
+    },
+    "properties": {
+    "Id":26515,
+    "Station":"ΑΝΤΩΝΟΥΔΗΣ  ΒΑΣΙΛΕΙΟΣ",
+    "Address":"ΚΑΡΑΟΛΗ ΚΑΙ ΔΗΜΗΤΡΙΟΥ 83",
+    "Location":"ΕΥΟΣΜΟΣ",
+    "Postal Code":56224,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.54501,40.70698 ]
+    },
+    "properties": {
+    "Id":26202,
+    "Station":"ΚΑΡΚΑΜΑΝΗΣ ΔΗΜΗΤΡΙΟΣ",
+    "Address":"ΜΙΚΡΟ ΜΟΝΑΣΤΗΡΙ",
+    "Location":"ΧΑΛΚΗΔΟΝΑ",
+    "Postal Code":57007,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.85400,40.74390 ]
+    },
+    "properties": {
+    "Id":25816,
+    "Station":"ΣΤΑΥΡΑΚΟΓΛΟΥ ΠΑΡΑΣΚΕΥΗ",
+    "Address":"ΠΕΝΤΑΛΟΦΟΣ",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54500,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΑΝΤΟΠΩΛΕΙΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.92125,40.66933 ]
+    },
+    "properties": {
+    "Id":24394,
+    "Station":"ΜΙΣΙΡΛΙΔΟΥ ΕΥΑΓΓΕΛΙΑ",
+    "Address":"ΧΡΥΣΟΣΤΟΜΟΥ & ΚΡΙΕΖΩΤΟΥ 8",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":56224,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94354,40.64071 ]
+    },
+    "properties": {
+    "Id":24317,
+    "Station":"ΣΙΔΕΡΗ ΧΡΙΣΤΙΝΑ",
+    "Address":"ΑΓΙΟΥ ΔΗΜΗΤΡΙΟΥ 57",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54632,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.92075,40.66667 ]
+    },
+    "properties": {
+    "Id":24316,
+    "Station":"ΣΟΥΡΜΑΙΔΗΣ ΓΕΩΡΓΙΟΣ",
+    "Address":"ΚΑΡΑΟΛΗ ΚΑΙ ΔΗΜΗΤΡΙΟΥ 171  ",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":56224,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.96016,40.66235 ]
+    },
+    "properties": {
+    "Id":24274,
+    "Station":"ΒΟΥΛΤΣΙΟΥ ΑΙΚΑΤΕΡΙΝΗ",
+    "Address":"ΚΗΦΙΣΙΑΣ 4 - ΜΕΤΕΩΡΑ     ",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":56532,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.92059,40.66962 ]
+    },
+    "properties": {
+    "Id":24269,
+    "Station":"ΣΑΜΑΡΑΣ ΓΡΑΜΜΑΤΑΣ",
+    "Address":"17 ΝΟΕΜΒΡΗ 32",
+    "Location":"ΕΥΟΣΜΟΣ",
+    "Postal Code":56224,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.96222,40.60748 ]
+    },
+    "properties": {
+    "Id":23188,
+    "Station":"ΜΠΕΛΛΟ ΑΝΤΕΛΑ",
+    "Address":"ΜΑΡΚΟΥ ΜΠΟΤΣΑΡΗ 63-65",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54644,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΤΗΛΕΠΙΚΟΙΝΩΝΙΕΣ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.95410,40.65457 ]
+    },
+    "properties": {
+    "Id":22084,
+    "Station":"JANI BESA",
+    "Address":"Α. ΠΑΠΑΝΔΡΕΟΥ 191 ΠΟΛΙΧΝΗ",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":56532,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.96415,40.64859 ]
+    },
+    "properties": {
+    "Id":5467,
+    "Station":"ΜΑΛΚΟΠΟΥΛΟΥ ΕΥΔΟΞΙΑ",
+    "Address":"ΚΑΡΑΙΣΚΑΚΗ 16",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54640,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.93132,40.65934 ]
+    },
+    "properties": {
+    "Id":5240,
+    "Station":"ΣΑΡΑΦΗ ΑΙΚΑΤΕΡΙΝΗ",
+    "Address":"ΑΓΙΑΣ ΤΡΙΑΔΟΣ 9",
+    "Location":"ΣΤΑΥΡΟΥΠΟΛΗ",
+    "Postal Code":56430,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.89476,40.66678 ]
+    },
+    "properties": {
+    "Id":2188,
+    "Station":"ΜΑΝΔΩΝΑΣ ΝΙΚΟΛΑΟΣ",
+    "Address":"ΑΝΔΡ. ΠΑΠΑΝΔΡΕΟΥ 17",
+    "Location":"ΕΛΕΥΘΕΡΙΟ - ΚΟΡΔΕΛΙΟ",
+    "Postal Code":56334,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.96969,40.60908 ]
+    },
+    "properties": {
+    "Id":505,
+    "Station":"ΣΤΑΘΑΚΗ ΖΩΗ",
+    "Address":"ΜΠΟΤΣΑΡΗ 138  ",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54453,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.90874,40.66263 ]
+    },
+    "properties": {
+    "Id":311,
+    "Station":"ΒΑΣΙΛΕΙΟΥ ΓΕΩΡΓΙΑ",
+    "Address":"ΜΑΚΕΔΟΝΙΑΣ 41 ",
+    "Location":"ΕΥΟΣΜΟΣ",
+    "Postal Code":56224,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.95134,40.63040 ]
+    },
+    "properties": {
+    "Id":28191,
+    "Station":"ΠΑΝΟΥ Ε. ΠΑΠΑΖΟΓΛΟΥ Π. ΟΕ",
+    "Address":"ΙΠΠΟΔΡΟΜΙΟΥ - ΑΛΕΞ.ΣΒΩΛΟΥ 22",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54621,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.90389,40.67397 ]
+    },
+    "properties": {
+    "Id":27937,
+    "Station":"ΒΑΛΜΑΣ ΚΩΝΣΤΑΝΤΙΝΟΣ",
+    "Address":"25ΗΣ ΜΑΡΤΙΟΥ 7",
+    "Location":"ΕΥΟΣΜΟΣ",
+    "Postal Code":56224,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΑΝΤΟΠΩΛΕΙΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.98033,40.61469 ]
+    },
+    "properties": {
+    "Id":27936,
+    "Station":"ΣΑΡΑΦΑ ΕΥΘΥΜΙΑ",
+    "Address":"Δ. ΧΑΡΙΣΗ 17",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54352,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.92753,40.67458 ]
+    },
+    "properties": {
+    "Id":27921,
+    "Station":"ΜΑΡΑΚΑΝΑ ΕΠΕ",
+    "Address":"ΜΑΚΡΥΓΙΑΝΝΗ 47",
+    "Location":"ΣΤΑΥΡΟΥΠΟΛΗ",
+    "Postal Code":56431,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΚΑΦΕΝΕΙΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94295,40.63670 ]
+    },
+    "properties": {
+    "Id":24318,
+    "Station":"ΤΖΙΟΥΜΕΡΚΑ ΒΙΟΛΕΤΑ",
+    "Address":"ΕΓΝΑΤΙΑ 59",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54624,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94346,40.63470 ]
+    },
+    "properties": {
+    "Id":21575,
+    "Station":"ΤΡΙΑΝΤΑΦΥΛΛΙΔΟΥ ΜΑΡΙΝΑ",
+    "Address":"ΕΡΜΟΥ 51",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Postal Code":54623,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.85887,40.46328 ]
+    },
+    "properties": {
+    "Id":27958,
+    "Station":"ΙΩΑΝΝΙΔΗΣ ΝΙΚΟΛΑΟΣ (ΥΠΟΚ. 1)",
+    "Address":"ΠΟΛΥΤΕΧΝΕΙΟΥ 41",
+    "Location":"ΜΗΧΑΝΙΩΝΑ",
+    "Postal Code":57004,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΑΡΟΧΗ ΥΠΗΡΕΣΙΩΝ ΔΙΑΔΙΚΤΥΟΥ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.92723,40.50387 ]
+    },
+    "properties": {
+    "Id":27956,
+    "Station":"ΙΩΑΝΝΙΔΗΣ ΝΙΚΟΛΑΟΣ",
+    "Address":"ΑΜΠΕΛΟΚΗΠΩΝ 43",
+    "Location":"ΠΕΡΑΙΑ",
+    "Postal Code":57019,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"INTERNET CAFE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.91807,40.67536 ]
+    },
+    "properties": {
+    "Id":27940,
+    "Station":"ΜΠΑΞΕΒΑΝΗΣ ΑΣΤΕΡΙΟΣ",
+    "Address":"ΕΘΝΙΚΗΣ ΑΝΤΙΣΤΑΣΕΩΣ 88",
+    "Location":"ΕΥΟΣΜΟΣ",
+    "Postal Code":56224,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΟΠΩΡΟΛΑΧΑΝΟΠΩΛΕΙΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.54501,40.70698 ]
+    },
+    "properties": {
+    "Id":26262,
+    "Station":"ΓΚΟΥΜΑΣ ΓΕΩΡΓΙΟΣ",
+    "Address":"ΜΙΚΡΟ ΜΟΝΑΣΤΗΡΙ",
+    "Location":"ΜΙΚΡΟ ΜΟΝΑΣΤΗΡΙ",
+    "Postal Code":57007,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΕΙΔΗ ΔΙΑΤΡΟΦΗΣ-ΚΑΠΝΟΥ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94517,40.63492 ]
+    },
+    "properties": {
+    "Id":24321,
+    "Station":"ΧΑΛΚΙΔΟΥ ΔΕΣΠΟΙΝΑ",
+    "Address":"ΜΗΤΡ. ΓΕΝΝΑΔΙΟΥ 6",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54623,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94536,40.64094 ]
+    },
+    "properties": {
+    "Id":24315,
+    "Station":"ΚΑΡΑΓΚΕΖΩΒΑ ΕΛΙΝΑ",
+    "Address":"ΚΑΣΑΝΔΡΟΥ 45  ",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54633,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.92256,40.64298 ]
+    },
+    "properties": {
+    "Id":27960,
+    "Station":"ΤΣΑΝΤΕΚΙΔΗΣ ΧΡΗΣΤΟΣ (ΥΠΟΚ. 2)",
+    "Address":"ΠΛΑΤΕΙΑ Ν. ΣΤΑΘΜΟΥ",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54637,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94306,40.63985 ]
+    },
+    "properties": {
+    "Id":24324,
+    "Station":"ΝΙΚΗΦΟΡΟΥ Β. - ΖΑΧΟΣ Ν. Ο.Ε",
+    "Address":"ΙΩΝΟΣ ΔΡΑΓΟΥΜΗ 47",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54631,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.95318,40.63565 ]
+    },
+    "properties": {
+    "Id":24323,
+    "Station":"ΖΑΧΟΣ-ΚΑΤΣΙΑΝΗΣ Γ Ο.Ε",
+    "Address":"ΑΓΙΟΥ ΔΗΜΗΤΡΙΟΥ 154",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54635,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.95073,40.63420 ]
+    },
+    "properties": {
+    "Id":24322,
+    "Station":"ΖΑΧΟΣ ΝΙΚΟΛΑΟΣ (ΥΠΟΚ)",
+    "Address":"ΙΑΣΩΝΙΔΟΥ 8",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54635,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.92511,40.50609 ]
+    },
+    "properties": {
+    "Id":20497,
+    "Station":"ΜΑΝΩΛΑΚΑΚΗ ΓΑΡΥΦΑΛΛΙΑ",
+    "Address":"ΑΝΘΕΩΝ 16-ΠΕΡΑΙΑ",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":57019,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.95224,40.68641 ]
+    },
+    "properties": {
+    "Id":27974,
+    "Station":"HYSOLLI DRITAN",
+    "Address":"ΑΓΙΟΥ ΚΩΝΣΤΑΝΤΙΝΟΥ 5",
+    "Location":"Ν ΕΥΚΑΡΠΙΑ",
+    "Postal Code":56429,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΑΝΤΟΠΩΛΕΙΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94325,40.65791 ]
+    },
+    "properties": {
+    "Id":27970,
+    "Station":"BATTLENET POLICHNIS E.E",
+    "Address":"ΑΓΙΑΣ ΠΑΡΑΣΚΕΥΗΣ 33",
+    "Location":"ΠΟΛΙΧΝΗ",
+    "Postal Code":56533,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΑΡΟΧΗ ΥΠΗΡΕΣΙΩΝ ΔΙΑΔΙΚΤΥΟΥ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.99011,40.65671 ]
+    },
+    "properties": {
+    "Id":27959,
+    "Station":"ΧΑΤΖΗΝΙΚΟΛΑΟΥ ΕΛΕΥΘΕΡΙΟΣ (ΥΠΟΚ.)",
+    "Address":"Λ. ΠΑΠΑΝΙΚΟΛΑΟΥ 81",
+    "Location":"ΑΣΒΕΣΤΟΧΩΡΙ",
+    "Postal Code":57010,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.99264,40.65604 ]
+    },
+    "properties": {
+    "Id":27957,
+    "Station":"ΧΑΤΖΗΝΙΚΟΛΑΟΥ ΕΛΕΥΘΕΡΙΟΣ",
+    "Address":"ΑΓ ΣΟΦΙΑΣ  ΠΕΥΚΑ 6",
+    "Location":"ΑΣΒΕΣΤΟΧΩΡΙ",
+    "Postal Code":57010,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΜΙΝΙ ΜΑΡΚΕΤ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94176,40.63914 ]
+    },
+    "properties": {
+    "Id":24320,
+    "Station":"ΤΣΑΚΑΛΙΔΟΥ ΜΑΡΙΑ",
+    "Address":"ΦΙΛΙΠΠΟΥ 4",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Postal Code":54630,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.95100,40.63049 ]
+    },
+    "properties": {
+    "Id":28192,
+    "Station":"ΣΕΛΙΔΗΣ ΓΕΩΡΓΙΟΣ & ΒΑΣΙΛΕΙΟΣ ΟΕ",
+    "Address":"ΑΛΕΞΑΝΔΡΟΥ ΣΒΩΛΟΥ 42",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54621,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.95304,40.62995 ]
+    },
+    "properties": {
+    "Id":27971,
+    "Station":"ΤΣΙΓΑΡΙΔΑ ΑΓΓΕΛΙΚΗ",
+    "Address":"ΣΟΛΩΝΟΣ 9",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54642,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΑΝΤΟΠΩΛΕΙΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.95678,40.62896 ]
+    },
+    "properties": {
+    "Id":27926,
+    "Station":"KIRATZOPOULOS POULOS ELIAS",
+    "Address":"ΟΛΥΜΠΟΥ 83 & ΑΓΝ. ΣΤΡΑΤΙΩΤΗ 14 ",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54630,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΚΑΦΕΝΕΙΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.98194,40.62230 ]
+    },
+    "properties": {
+    "Id":26548,
+    "Station":"ΘΥΜΝΙΟΥΔΗΣ ΠΑΣΧΑΛΗΣ",
+    "Address":"ΑΓΙΟΥ ΚΩΝΣΤΑΝΤΙΝΟΥ 68  ",
+    "Location":"ΕΥΟΣΜΟΣ",
+    "Postal Code":56224,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.95281,40.63594 ]
+    },
+    "properties": {
+    "Id":24329,
+    "Station":"ΑΣΛΑΝΙΔΗΣ ΘΕΟΔΩΡΟΣ",
+    "Address":"ΑΓ ΔΗΜΗΤΡΙΟΥ 152",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54635,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94978,40.63634 ]
+    },
+    "properties": {
+    "Id":24328,
+    "Station":"ΖΑΧΟΥ ΣΤΕΛΛΑ",
+    "Address":"ΙΑΣΩΝΙΔΟΥ 27",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54635,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94877,40.63288 ]
+    },
+    "properties": {
+    "Id":24327,
+    "Station":"ΚΥΡΙΜΚΥΡΙΔΗΣ ΣΤ. - ΖΑΧΟΣ Ν. Ο.Ε",
+    "Address":"ΠΑΤΡ. ΙΩΑΚΕΙΜ 2Α",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54622,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.95220,40.63213 ]
+    },
+    "properties": {
+    "Id":24326,
+    "Station":"ΖΑΧΟΣ ΝΙΚΟΛΑΟΣ (ΚΕΝΤΡΙΚΟ)",
+    "Address":"ΕΓΝΑΤΙΑΣ 121",
+    "Location":"ΘΕΣΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54635,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.90470,40.67509 ]
+    },
+    "properties": {
+    "Id":27987,
+    "Station":"ΖΟΛΩΤΑ ΤΡΙΑΝΤΑΦΥΛΛΙΑ",
+    "Address":"ΔΙΑΒΑΤΑ ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Location":"ΜΑΥΡΟΚΟΡΔΑΤΟΥ 1",
+    "Postal Code":57008,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.85501,40.69114 ]
+    },
+    "properties": {
+    "Id":27986,
+    "Station":"ΚΑΛΑΙΤΖΙΔΗΣ ΑΝΑΣΤΑΣΙΟΣ",
+    "Address":"ΔΙΑΒΑΤΑ",
+    "Location":"ΕΘΝ. ΜΑΚΑΡΙΟΥ 3",
+    "Postal Code":57008,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΓΕΝΙΚΗ ΥΠΗΡΕΣΙΩΝ ΚΑΙ ΕΜΠΟΡΙΟΥ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.95058,40.63238 ]
+    },
+    "properties": {
+    "Id":24330,
+    "Station":"ΔΗΣΕΡΗΣ ΘΩΜΑΣ ",
+    "Address":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Location":"ΕΓΝΑΤΙΑ 138",
+    "Postal Code":54622,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94837,40.62758 ]
+    },
+    "properties": {
+    "Id":24331,
+    "Station":"ΔΙΑΜΑΝΤΙΔΗΣ ΑΠΟΣΤΟΛΟΣ",
+    "Address":"ΤΣΙΡΟΓΙΑΝΝΗ 1",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54621,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.93980,40.63479 ]
+    },
+    "properties": {
+    "Id":24332,
+    "Station":"ΝΑΒΡΟΖΙΑΔΗΣ ΣΤΑΥΡΟΣ",
+    "Address":"ΒΕΝΙΖΕΛΟΥ 18",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54624,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.92081,40.84175 ]
+    },
+    "properties": {
+    "Id":24333,
+    "Station":"ΗΛΙΑΔΟΥ ΖΩΗ",
+    "Address":"ΕΘΝ.ΑΜΥΝΗΣ 6",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54622,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.93187,40.68219 ]
+    },
+    "properties": {
+    "Id":24335,
+    "Station":"ΑΝΟΡΗΣ ΙΩΑΝΝΗΣ",
+    "Address":"ΠΑΛΑΙΟΛΟΓΟΥ & ΛΗΜΝΟΥ 4",
+    "Location":"ΣΤΑΥΡΟΥΠΟΛΗ",
+    "Postal Code":56430,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94809,40.62826 ]
+    },
+    "properties": {
+    "Id":24336,
+    "Station":"ΚΑΡΣΛΙΕΒΙΔΗΣ ΛΑΟΚΡ",
+    "Address":"ΜΕΛΑ & ΓΟΥΝΑΡΗ 1",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54621,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.93945,40.63591 ]
+    },
+    "properties": {
+    "Id":27951,
+    "Station":"ΦΛΩΡΟΚΑΠΗ ΒΑΣΙΛΙΚΗ",
+    "Address":"ΒΑΣ. ΗΡΑΚΛΕΙΟΥ & Ι. ΔΡΑΓΟΥΜΗ 12",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54624,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΧΑΡΤΙΚΑ-ΦΩΤ/ΠΙΕΣ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.95135,40.62915 ]
+    },
+    "properties": {
+    "Id":27988,
+    "Station":"ΜΕΤΣΟΣ ΚΛΕΑΝΘΗΣ",
+    "Address":"ΕΘΝΙΚΗ ΑΜΥΝΗΣ 15",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54621,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΑΡΤΟΖΑΧ/ΠΛΑΣΤΕΙΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.95019,40.63494 ]
+    },
+    "properties": {
+    "Id":27992,
+    "Station":"ΔΗΜΗΤΡΙΑΔΗΣ ΝΙΚΟΛΑΟΣ",
+    "Address":"ΙΑΣΩΝΙΔΟΥ 14 & ΣΚΛΑΒΟΥ 1",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54635,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.96452,40.60125 ]
+    },
+    "properties": {
+    "Id":27994,
+    "Station":"ΑΡΓΥΡΟΠΟΥΛΟΣ ΕΡΒΙΣ (ΥΠΟΚ.)",
+    "Address":"ΚΩΝ/ΝΟΥ ΚΑΡΑΜΑΝΛΗ 161",
+    "Location":"ΚΑΛΑΜΑΡΙΑ",
+    "Postal Code":54249,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94348,40.64005 ]
+    },
+    "properties": {
+    "Id":27995,
+    "Station":"ΦΩΤΙΑΔΟΥ ΝΙΚΟΛΕΤΤΑ",
+    "Address":"ΥΠ ΦΙΛ ΔΡΑΓΟΥΜΗ 3",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54630,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.98650,40.60081 ]
+    },
+    "properties": {
+    "Id":28008,
+    "Station":"ONE STOP STORES ΙΚΕ(ΥΠΟΚ.2)",
+    "Address":"ΠΡΟΦΗΤΗ ΗΛΙΑ 55",
+    "Location":"ΠΥΛΑΙΑ",
+    "Postal Code":55535,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΑΝΑΨΥΚΤΗΡΙΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.96356,40.59196 ]
+    },
+    "properties": {
+    "Id":27998,
+    "Station":"KOTRULEVA E. & ΣΙΑ Ε.Ε",
+    "Address":"ΜΙΧΑΗΛ ΨΕΛΛΟΥ 30",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54248,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94764,40.63134 ]
+    },
+    "properties": {
+    "Id":27891,
+    "Station":"ΑΝΔΡΙΩΤΗΣ ΙΩΑΝΝΗΣ",
+    "Address":"Π.ΠΑΤΡΩΝ ΓΕΡΜΑΝΟΥ 18-20",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54622,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.95270,40.63024 ]
+    },
+    "properties": {
+    "Id":24334,
+    "Station":"ΣΚΙΤΟΤΟΜΙΔΟΥ ΤΑΤΙΑΝΑ",
+    "Address":"ΕΘΝ. ΑΜΥΝΗΣ 40",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54621,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94105,40.65207 ]
+    },
+    "properties": {
+    "Id":28194,
+    "Station":"ΑΦΟΙ ΚΡΙΤΖΙΩΤΗ Ε.Ε",
+    "Address":"ΑΝΔΡΕΑ ΠΑΠΑΝΔΡΕΟΥ 60",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":56728,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.95950,40.60796 ]
+    },
+    "properties": {
+    "Id":28003,
+    "Station":"ΦΟΥΝΤΟΥΚΗΣ ΕΜΜΑΝΟΥΗΛ ",
+    "Address":"ΜΑΚΕΔΟΝΙΑΣ 57",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54644,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.97490,40.53542 ]
+    },
+    "properties": {
+    "Id":28001,
+    "Station":"ΛΑΖΙΔΗΣ ΝΟΔΑΡ",
+    "Address":"ΑΚΤΗΣ 7",
+    "Location":"ΠΕΡΑΙΑ ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Postal Code":57019,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"INTERNET CAFE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.95206,40.63945 ]
+    },
+    "properties": {
+    "Id":27999,
+    "Station":"ΓΙΑΝΝΟΣ ΕΜΜΑΝΟΥΗΛ ",
+    "Address":"ΟΛΥΜΠΙΑΔΟΣ 97",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54634,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΨΙΛΙΚΑ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.95314,40.60237 ]
+    },
+    "properties": {
+    "Id":27996,
+    "Station":"ΝΑΡΛΙΔΗΣ ΕΥΘΥΜΙΟΣ (ΥΠΟΚ.)",
+    "Address":"ΒΑΣ. ΟΛΓΑΣ 130",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54645,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"INTERNET CAFE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94692,40.63007 ]
+    },
+    "properties": {
+    "Id":24337,
+    "Station":"ΠΕΡΙΠΤΕΡΟ ΤΣΙΜΙΣΚΗ 94 Ε.Ε",
+    "Address":"ΤΣΙΜΙΣΚΗ 94",
+    "Location":"ΘΕΣΣΑΛΟΝΙΚΗ",
+    "Postal Code":54622,
+    "Prefecture":"ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "Store Type":"ΠΕΡΙΠΤΕΡΟ"
+    }
+  }
+]
+}

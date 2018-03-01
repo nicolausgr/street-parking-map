@@ -1,0 +1,568 @@
+/*
+ * Spinner
+ */
+@keyframes loader {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+@-webkit-keyframes loader {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+.loader {
+  position: absolute;
+  left: 50%;
+  top: 45%;
+  z-index: 2;
+  margin: -100px 0 0 -100px;
+  -webkit-transition: opacity 1s;
+  opacity: 1;
+}
+.loader div {
+  left: 96px;
+  top: 52px;
+  position: absolute;
+  -webkit-animation: loader linear 1s infinite;
+  animation: loader linear 1s infinite;
+  background: #3e66a9;
+  width: 8px;
+  height: 24px;
+  border-radius: 40%;
+  -webkit-transform-origin: 4px 48px;
+  transform-origin: 4px 48px;
+}
+.loader div:nth-child(1) {
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -webkit-animation-delay: -0.916666666666667s;
+  animation-delay: -0.916666666666667s;
+}
+.loader div:nth-child(2) {
+  -webkit-transform: rotate(30deg);
+  transform: rotate(30deg);
+  -webkit-animation-delay: -0.833333333333333s;
+  animation-delay: -0.833333333333333s;
+}
+.loader div:nth-child(3) {
+  -webkit-transform: rotate(60deg);
+  transform: rotate(60deg);
+  -webkit-animation-delay: -0.75s;
+  animation-delay: -0.75s;
+}
+.loader div:nth-child(4) {
+  -webkit-transform: rotate(90deg);
+  transform: rotate(90deg);
+  -webkit-animation-delay: -0.666666666666667s;
+  animation-delay: -0.666666666666667s;
+}
+.loader div:nth-child(5) {
+  -webkit-transform: rotate(120deg);
+  transform: rotate(120deg);
+  -webkit-animation-delay: -0.583333333333333s;
+  animation-delay: -0.583333333333333s;
+}
+.loader div:nth-child(6) {
+  -webkit-transform: rotate(150deg);
+  transform: rotate(150deg);
+  -webkit-animation-delay: -0.5s;
+  animation-delay: -0.5s;
+}
+.loader div:nth-child(7) {
+  -webkit-transform: rotate(180deg);
+  transform: rotate(180deg);
+  -webkit-animation-delay: -0.416666666666667s;
+  animation-delay: -0.416666666666667s;
+}
+.loader div:nth-child(8) {
+  -webkit-transform: rotate(210deg);
+  transform: rotate(210deg);
+  -webkit-animation-delay: -0.333333333333333s;
+  animation-delay: -0.333333333333333s;
+}
+.loader div:nth-child(9) {
+  -webkit-transform: rotate(240deg);
+  transform: rotate(240deg);
+  -webkit-animation-delay: -0.25s;
+  animation-delay: -0.25s;
+}
+.loader div:nth-child(10) {
+  -webkit-transform: rotate(270deg);
+  transform: rotate(270deg);
+  -webkit-animation-delay: -0.166666666666667s;
+  animation-delay: -0.166666666666667s;
+}
+.loader div:nth-child(11) {
+  -webkit-transform: rotate(300deg);
+  transform: rotate(300deg);
+  -webkit-animation-delay: -0.083333333333333s;
+  animation-delay: -0.083333333333333s;
+}
+.loader div:nth-child(12) {
+  -webkit-transform: rotate(330deg);
+  transform: rotate(330deg);
+  -webkit-animation-delay: 0s;
+  animation-delay: 0s;
+}
+
+.loader {
+  width: 200px !important;
+  height: 200px !important;
+  -webkit-transform: translate(-100px, -100px) scale(1) translate(100px, 100px);
+  transform: translate(-100px, -100px) scale(1) translate(100px, 100px);
+}
+
+
+/*
+ * Full-window height html body
+ */
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+}
+
+/*
+ * Full-body height map
+ */
+#map {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 0;
+  height: 100%;
+  width: 100%;
+  -webkit-transition: opacity 1s;
+  opacity: 0.2;
+}
+
+/*
+ * Maintenance overlay
+ */
+.maintenance {
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  z-index: 0;
+  background-color: rgba(0,0,0,0.8);
+  text-align: center;
+}
+
+.maintenance span {
+  left: 0;
+  margin: auto;
+  margin-top: -110px;
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  font-size: 250%;
+  color: white;
+}
+
+/*
+ * Topbar
+ */
+.topbar {
+  overflow: hidden;
+  width: 100%;
+  height: 45px;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  z-index: 1;
+  background-color: rgba(0,0,0,0.4);
+}
+
+/*
+ * Topbar Logo
+ */
+.toplogo {
+  float: left;
+  padding-top: 13px;
+  padding-left: 14px;
+  height: 21px;
+}
+
+/*
+ * Searchbox
+ */
+#searchbox {
+  position: absolute;
+  width: 300px;
+  height: 19px;
+  margin-left: -316px;
+  top: 10px;
+  left: 100%;
+  z-index: 2;
+}
+
+/*
+ * Topbar Menu
+ */
+.burger, .topmenu {
+  float: right;
+}
+
+.burger a,.topmenu a {
+  float: left;
+  display: block;
+  color: #fff;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+.burger a:hover,.topmenu a:hover {
+  background-color: rgb(240,237,229);
+  color: black;
+}
+
+.burger .icon {
+  display: none;
+}
+
+/*
+ * Responsive styling for Topbar Menu
+ */
+@media screen and (max-width: 800px) {
+  .topmenu a {
+  display: none;
+  }
+  
+  .burger a.icon {
+  float: right;
+  display: block;
+  }
+  
+  .topmenu.responsive {
+  width: 100%;
+  position: relative;
+  }
+  
+  .topmenu.responsive a.icon {
+  position: absolute;
+  right: 0;
+  top: 0;
+  }
+  
+  .topmenu.responsive a {
+  float: none;
+  display: block;
+  text-align: center;
+  }
+}
+
+@media screen and (max-width: 479px) {
+  #searchbox {
+    top: 50px;
+    margin-left: -312px;
+  }
+}
+
+/*
+ * Popup information from menu items
+ */
+.overlay {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.7);
+  transition: opacity 500ms;
+  visibility: hidden;
+  opacity: 0;
+}
+
+.overlay:target {
+  visibility: visible;
+  opacity: 1;
+}
+
+.popup {
+  margin: 70px auto;
+  padding: 30px;
+  background: #fff;
+  border-radius: 5px;
+  width: 600px;
+  max-height: 75vh;
+  position: relative;
+  transition: all 5s ease-in-out;
+}
+
+.popup h2 {
+  margin-top: 0px;
+  font-weight: 500;
+  color: #333;
+}
+
+.popup .close {
+  position: absolute;
+  top: 0;
+  right: 11px;
+  transition: all 200ms;
+  font-size: 30px;
+  font-weight: bold;
+  text-decoration: none;
+  color: #333;
+}
+.popup .close:hover {
+  color: rgb(248,185,0);
+}
+
+.popup .content {
+  overflow: auto;
+  max-height: 65vh;
+}
+
+@media screen and (max-width: 800px){
+  .popup{
+  width: 75%;
+	padding: 18px;
+  }
+}
+
+/*
+ * Side Layers
+ */
+#theSidelayers > div {
+  position: absolute;
+  left: -202px;
+  transition: 0.5s;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 12px;
+  width: 230px;
+  height: 19px; /* same as .label line-height */
+  border-radius: 0 5px 5px 0;
+  box-shadow: 4px 4px 5px rgba(0,0,0,0.4);
+}
+
+#theSidelayers > div:hover {
+  left: 0px;
+}
+
+#traffic {
+  bottom: 182px;
+  background-color: rgb(227,73,59);
+}
+
+#residents {
+  bottom: 138px;
+  background-color: rgb(81,165,186);
+}
+
+#visitors {
+  bottom: 94px;
+  background-color: rgb(254,169,2);
+}
+
+#kiosks {
+  bottom: 50px;
+  background-color: rgb(65,146,75);
+}
+
+/*
+.arrow-right {
+  position: absolute;
+  left: 40px;
+  border-style: dashed;
+  border-color: transparent;
+  border-width: 5px;
+}
+
+#traffic-arrow {
+  bottom: 194px;
+  border-left-color: rgb(159,51,41);
+}
+
+#residents-arrow {
+  bottom: 150px;
+  border-left-color: rgb(57,116,130);
+}
+
+#visitors-arrow {
+  bottom: 106px;
+  border-left-color: rgb(178,118,1);
+}
+
+#kiosks-arrow {
+  bottom: 62px;
+  border-left-color: rgb(46,102,53);
+}
+*/
+
+/*
+ * Layer toggles
+ */
+
+ /* The switch - the box around the slider */
+.switch {
+  position: relative;
+  display: inline-block;
+  float: left;
+  margin-right: 10px;
+  width: 40px;
+  height: 20px;
+}
+
+/* Hide default HTML checkbox */
+.switch input {display:none;}
+
+/* The slider */
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #ccc;
+  border-radius: 34px;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 12px;
+  width: 12px;
+  left: 4px;
+  bottom: 4px;
+  background-color: white;
+  border-radius: 50%;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+input:checked + .slider {
+  background-color: #2196F3;
+}
+
+input:focus + .slider {
+  box-shadow: 0 0 1px #2196F3;
+}
+
+input:checked + .slider:before {
+  -webkit-transform: translateX(21px);
+  -ms-transform: translateX(21px);
+  transform: translateX(21px);
+}
+
+.label {
+  float: left;
+  vertical-align: middle;
+  text-decoration: none;
+  font-size: 14px;
+  line-height: 19px; /* same as div height */
+  color: #FFF;
+}
+
+#theSidelayers img {
+  float: right;
+  margin-right: 10px;
+  height: 20px;
+}
+
+/*
+ * Snackbar
+ */
+.snackbar {
+  visibility: hidden;
+  width: 200px;
+  font-size: 12px;
+  margin-left: -110px;
+  background-color: rgba(80,80,80,0.9);
+  color: #fff;
+  text-align: center;
+  border-radius: 10px;
+  padding: 10px;
+  position: fixed;
+  z-index: 1;
+  left: 50%;
+  bottom: 30px;
+}
+
+/* Show the snackbar when clicking on a button (class added with JavaScript) */
+.snackbar.show {
+  visibility: visible;
+
+/* Add animation: Take 0.5 seconds to fade in and out the snackbar.
+However, delay the fade out process for 2.5 seconds */
+  -webkit-animation: fadein 0.5s, fadeout 0.5s 2.5s;
+  animation: fadein 0.5s, fadeout 0.5s 2.5s;
+}
+
+/* Animations to fade the snackbar in and out */
+@-webkit-keyframes fadein {
+  from {bottom: 0; opacity: 0;}
+  to {bottom: 30px; opacity: 1;}
+}
+
+@keyframes fadein {
+  from {bottom: 0; opacity: 0;}
+  to {bottom: 30px; opacity: 1;}
+}
+
+@-webkit-keyframes fadeout {
+  from {bottom: 30px; opacity: 1;}
+  to {bottom: 0; opacity: 0;}
+}
+
+@keyframes fadeout {
+  from {bottom: 30px; opacity: 1;}
+  to {bottom: 0; opacity: 0;}
+}
+
+/*
+ * Accordion
+ */
+div.accordion {
+  background-color: rgb(81,165,186);
+  border-style: solid;
+  border-width: 2px 0 0 0;
+  border-color: #FFF;
+  color: #FFF;
+  cursor: pointer;
+  padding: 10px;
+  text-align: left;
+  outline: none;
+  transition: 0.4s;
+}
+
+div.accordion:hover {
+  background-color: rgb(93,189,213);
+}
+
+div.accordion:after {
+  content: '\002B';
+  color: #FFF;
+  font-weight: bold;
+  float: right;
+  margin-left: 5px;
+}
+
+div.accordion.active:after {
+  content: "\2212";
+}
+
+div.panel {
+  padding: 0 10px;
+  background-color: white;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+}
