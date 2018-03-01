@@ -4,12 +4,12 @@
     <title>Θέσεις Στάθμευσης Δήμου Θεσσαλονίκης | ParkPal</title>
     <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
     <meta charset="utf-8" />
-    <link rel="icon" type="image/png" href="parkpal-icon.png" />
+    <link rel="icon" type="image/png" href="images/parkpal-icon.png" />
     <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet"> 
-    <link type="text/css" rel="stylesheet" href="style.css?version=1" />
+    <link type="text/css" rel="stylesheet" href="styles/style.css?version=1" />
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCjWJDPoJCEYO1LpyOv5sSEfczTZGAzHQA&libraries=places&language=el&region=EL"></script>
-    <script src="scripts.js"></script>
-    <script src="geolocation-marker.js"></script>
+    <script src="scripts/scripts.js"></script>
+    <script src="scripts/geolocation-marker.js"></script>
   </head>
   <body onload="fadeLoader()">
     <!--<div class="maintenance"><span>ΠΡΟΣΩΡΙΝΑ ΕΚΤΟΣ ΛΕΙΤΟΥΡΓΙΑΣ</span></div>-->
@@ -18,7 +18,7 @@
     </div>
     <div id="map" onclick="closeLayerboxes()"></div>
     <div class="topbar" onclick="closeLayerboxes()">
-      <img class="toplogo" src="parkpal-logo.png" alt="ParkPal" />
+      <img class="toplogo" src="images/parkpal-logo.png" alt="ParkPal" />
       <!--
 	  <div class="burger">
         <a href="javascript:void(0);" class="icon" onclick="toggleRespMenu()">&#9776;</a>
@@ -43,7 +43,7 @@
           <div class="slider"></div>
         </label>
         <div class="label">Κίνηση</div>
-        <img src="traffic-icon.png" alt="Κίνηση" />
+        <img src="images/traffic-icon.png" alt="Κίνηση" />
       </div>
       <div id="residents" onclick="toggleLayerbox('residents')" class="layerbox">
         <label class="switch">
@@ -51,7 +51,7 @@
           <div class="slider"></div>
         </label>
         <div class="label">Θέσεις κατοίκων</div>
-        <img src="resident-icon.png" alt="Θέσεις κατοίκων" />
+        <img src="images/resident-icon.png" alt="Θέσεις κατοίκων" />
       </div>
       <div id="visitors" onclick="toggleLayerbox('visitors')" class="layerbox">
         <label class="switch">
@@ -59,7 +59,7 @@
           <div class="slider"></div>
         </label>
         <div class="label">Θέσεις επισκεπτών</div>
-        <img src="visitor-icon.png" alt="Θέσεις επισκεπτών" />
+        <img src="images/visitor-icon.png" alt="Θέσεις επισκεπτών" />
       </div>
       <div id="kiosks" onclick="toggleLayerbox('kiosks')" class="layerbox">
         <label class="switch">
@@ -67,7 +67,7 @@
           <div class="slider"></div>
         </label>
         <div class="label">Σημεία πώλησης</div>
-        <img src="kiosk-icon.png" alt="Περίπτερα" />
+        <img src="images/kiosk-icon.png" alt="Περίπτερα" />
       </div>
     </div>
     <div class="arrow-right"></div>
@@ -252,7 +252,7 @@
         });
         
         zonesLayer = new google.maps.Data();
-        zonesLayer.loadGeoJson('zones.geojson');
+        zonesLayer.loadGeoJson('data/zones.geojson');
         zonesLayer.setStyle({
           strokeColor: 'rgba(81,165,186,128)',
           strokeWeight: 2,
@@ -276,7 +276,7 @@
         }
 
         residentsLayer = new google.maps.Data();
-        residentsLayer.loadGeoJson('residents.geojson?v=3');
+        residentsLayer.loadGeoJson('data/residents.geojson?v=3');
         residentsLayer.setStyle({
           strokeColor: 'rgba(81,165,186,128)',
           strokeWeight: 2,
@@ -300,7 +300,7 @@
         });
 
         visitorsLayer = new google.maps.Data();
-        visitorsLayer.loadGeoJson('visitors.geojson?v=3');
+        visitorsLayer.loadGeoJson('data/visitors.geojson?v=3');
         visitorsLayer.setStyle({
           strokeColor: 'rgba(254,169,2,64)',
           strokeWeight: 2,
@@ -323,9 +323,9 @@
         });
 
         kiosksLayer = new google.maps.Data();
-        kiosksLayer.loadGeoJson('kiosks.geojson?v=4');
+        kiosksLayer.loadGeoJson('data/kiosks.geojson?v=4');
         kiosksLayer.setStyle(function(feature) {
-            return {icon:'marker.png'};
+            return {icon:'images/marker.png'};
         });
         if (document.getElementById('kiosksbox').checked) {
           kiosksLayer.setMap(map);
